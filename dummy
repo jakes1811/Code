@@ -1,39 +1,1150 @@
-C:\Users\2000209445\Desktop\FINTEL_UPDATE>dir gold
- Volume in drive C has no label.
- Volume Serial Number is 8EFC-765E
+n.cpython-312.pyc
+C:\Users\2000209445\Desktop\FINTEL_UPDATE\gold_venv\Lib\site-packages\pyspark\sql\functions\__pycache__\partitioning.cpython-312.pyc
+C:\Users\2000209445\Desktop\FINTEL_UPDATE\gold_venv\Lib\site-packages\pyspark\sql\functions\__pycache__\__init__.cpython-312.pyc
+C:\Users\2000209445\Desktop\FINTEL_UPDATE\gold_venv\Lib\site-packages\pyspark\sql\pandas\conversion.py
+C:\Users\2000209445\Desktop\FINTEL_UPDATE\gold_venv\Lib\site-packages\pyspark\sql\pandas\functions.py
+C:\Users\2000209445\Desktop\FINTEL_UPDATE\gold_venv\Lib\site-packages\pyspark\sql\pandas\functions.pyi
+C:\Users\2000209445\Desktop\FINTEL_UPDATE\gold_venv\Lib\site-packages\pyspark\sql\pandas\group_ops.py
+C:\Users\2000209445\Desktop\FINTEL_UPDATE\gold_venv\Lib\site-packages\pyspark\sql\pandas\map_ops.py
+C:\Users\2000209445\Desktop\FINTEL_UPDATE\gold_venv\Lib\site-packages\pyspark\sql\pandas\serializers.py
+C:\Users\2000209445\Desktop\FINTEL_UPDATE\gold_venv\Lib\site-packages\pyspark\sql\pandas\typehints.py
+C:\Users\2000209445\Desktop\FINTEL_UPDATE\gold_venv\Lib\site-packages\pyspark\sql\pandas\types.py
+C:\Users\2000209445\Desktop\FINTEL_UPDATE\gold_venv\Lib\site-packages\pyspark\sql\pandas\utils.py
+C:\Users\2000209445\Desktop\FINTEL_UPDATE\gold_venv\Lib\site-packages\pyspark\sql\pandas\_typing
+C:\Users\2000209445\Desktop\FINTEL_UPDATE\gold_venv\Lib\site-packages\pyspark\sql\pandas\__init__.py
+C:\Users\2000209445\Desktop\FINTEL_UPDATE\gold_venv\Lib\site-packages\pyspark\sql\pandas\__pycache__
+C:\Users\2000209445\Desktop\FINTEL_UPDATE\gold_venv\Lib\site-packages\pyspark\sql\pandas\_typing\protocols
+C:\Users\2000209445\Desktop\FINTEL_UPDATE\gold_venv\Lib\site-packages\pyspark\sql\pandas\_typing\__init__.pyi
+C:\Users\2000209445\Desktop\FINTEL_UPDATE\gold_venv\Lib\site-packages\pyspark\sql\pandas\_typing\protocols\frame.pyi
+C:\Users\2000209445\Desktop\FINTEL_UPDATE\gold_venv\Lib\site-packages\pyspark\sql\pandas\_typing\protocols\series.pyi
+C:\Users\2000209445\Desktop\FINTEL_UPDATE\gold_venv\Lib\site-packages\pyspark\sql\pandas\_typing\protocols\__init__.pyi
+C:\Users\2000209445\Desktop\FINTEL_UPDATE\gold_venv\Lib\site-packages\pyspark\sql\pandas\__pycache__\conversion.cpython-312.pyc
+C:\Users\2000209445\Desktop\FINTEL_UPDATE\gold_venv\Lib\site-packages\pyspark\sql\pandas\__pycache__\functions.cpython-312.pyc
+C:\Users\2000209445\Desktop\FINTEL_UPDATE\gold_venv\Lib\site-packages\pyspark\sql\pandas\__pycache__\group_ops.cpython-312.pyc
+C:\Users\2000209445\Desktop\FINTEL_UPDATE\gold_venv\Lib\site-packages\pyspark\sql\pandas\__pycache__\map_ops.cpython-312.pyc
+C:\Users\2000209445\Desktop\FINTEL_UPDATE\gold_venv\Lib\site-packages\pyspark\sql\pandas\__pycache__\serializers.cpython-312.pyc
+C:\Users\2000209445\Desktop\FINTEL_UPDATE\gold_venv\Lib\site-packages\pyspark\sql\pandas\__pycache__\typehints.cpython-312.pyc
+C:\Users\2000209445\Desktop\FINTEL_UPDATE\gold_venv\Lib\site-packages\pyspark\sql\pandas\__pycache__\types.cpython-312.pyc
+C:\Users\2000209445\Desktop\FINTEL_UPDATE\gold_venv\Lib\site-packages\pyspark\sql\pandas\__pycache__\utils.cpython-312.pyc
+C:\Users\2000209445\Desktop\FINTEL_UPDATE\gold_venv\Lib\site-packages\pyspark\sql\pandas\__pycache__\__init__.cpython-312.pyc
+C:\Users\2000209445\Desktop\FINTEL_UPDATE\gold_venv\Lib\site-packages\pyspark\sql\plot\core.py
+C:\Users\2000209445\Desktop\FINTEL_UPDATE\gold_venv\Lib\site-packages\pyspark\sql\plot\plotly.py
+C:\Users\2000209445\Desktop\FINTEL_UPDATE\gold_venv\Lib\site-packages\pyspark\sql\plot\__init__.py
+C:\Users\2000209445\Desktop\FINTEL_UPDATE\gold_venv\Lib\site-packages\pyspark\sql\protobuf\functions.py
+C:\Users\2000209445\Desktop\FINTEL_UPDATE\gold_venv\Lib\site-packages\pyspark\sql\protobuf\__init__.py
+C:\Users\2000209445\Desktop\FINTEL_UPDATE\gold_venv\Lib\site-packages\pyspark\sql\streaming\listener.py
+C:\Users\2000209445\Desktop\FINTEL_UPDATE\gold_venv\Lib\site-packages\pyspark\sql\streaming\list_state_client.py
+C:\Users\2000209445\Desktop\FINTEL_UPDATE\gold_venv\Lib\site-packages\pyspark\sql\streaming\map_state_client.py
+C:\Users\2000209445\Desktop\FINTEL_UPDATE\gold_venv\Lib\site-packages\pyspark\sql\streaming\proto
+C:\Users\2000209445\Desktop\FINTEL_UPDATE\gold_venv\Lib\site-packages\pyspark\sql\streaming\python_streaming_source_runner.py
+C:\Users\2000209445\Desktop\FINTEL_UPDATE\gold_venv\Lib\site-packages\pyspark\sql\streaming\query.py
+C:\Users\2000209445\Desktop\FINTEL_UPDATE\gold_venv\Lib\site-packages\pyspark\sql\streaming\readwriter.py
+C:\Users\2000209445\Desktop\FINTEL_UPDATE\gold_venv\Lib\site-packages\pyspark\sql\streaming\state.py
+C:\Users\2000209445\Desktop\FINTEL_UPDATE\gold_venv\Lib\site-packages\pyspark\sql\streaming\stateful_processor.py
+C:\Users\2000209445\Desktop\FINTEL_UPDATE\gold_venv\Lib\site-packages\pyspark\sql\streaming\stateful_processor_api_client.py
+C:\Users\2000209445\Desktop\FINTEL_UPDATE\gold_venv\Lib\site-packages\pyspark\sql\streaming\stateful_processor_util.py
+C:\Users\2000209445\Desktop\FINTEL_UPDATE\gold_venv\Lib\site-packages\pyspark\sql\streaming\transform_with_state_driver_worker.py
+C:\Users\2000209445\Desktop\FINTEL_UPDATE\gold_venv\Lib\site-packages\pyspark\sql\streaming\value_state_client.py
+C:\Users\2000209445\Desktop\FINTEL_UPDATE\gold_venv\Lib\site-packages\pyspark\sql\streaming\__init__.py
+C:\Users\2000209445\Desktop\FINTEL_UPDATE\gold_venv\Lib\site-packages\pyspark\sql\streaming\__pycache__
+C:\Users\2000209445\Desktop\FINTEL_UPDATE\gold_venv\Lib\site-packages\pyspark\sql\streaming\proto\StateMessage_pb2.py
+C:\Users\2000209445\Desktop\FINTEL_UPDATE\gold_venv\Lib\site-packages\pyspark\sql\streaming\proto\StateMessage_pb2.pyi
+C:\Users\2000209445\Desktop\FINTEL_UPDATE\gold_venv\Lib\site-packages\pyspark\sql\streaming\proto\__init__.py
+C:\Users\2000209445\Desktop\FINTEL_UPDATE\gold_venv\Lib\site-packages\pyspark\sql\streaming\__pycache__\listener.cpython-312.pyc
+C:\Users\2000209445\Desktop\FINTEL_UPDATE\gold_venv\Lib\site-packages\pyspark\sql\streaming\__pycache__\list_state_client.cpython-312.pyc
+C:\Users\2000209445\Desktop\FINTEL_UPDATE\gold_venv\Lib\site-packages\pyspark\sql\streaming\__pycache__\map_state_client.cpython-312.pyc
+C:\Users\2000209445\Desktop\FINTEL_UPDATE\gold_venv\Lib\site-packages\pyspark\sql\streaming\__pycache__\query.cpython-312.pyc
+C:\Users\2000209445\Desktop\FINTEL_UPDATE\gold_venv\Lib\site-packages\pyspark\sql\streaming\__pycache__\readwriter.cpython-312.pyc
+C:\Users\2000209445\Desktop\FINTEL_UPDATE\gold_venv\Lib\site-packages\pyspark\sql\streaming\__pycache__\state.cpython-312.pyc
+C:\Users\2000209445\Desktop\FINTEL_UPDATE\gold_venv\Lib\site-packages\pyspark\sql\streaming\__pycache__\stateful_processor.cpython-312.pyc
+C:\Users\2000209445\Desktop\FINTEL_UPDATE\gold_venv\Lib\site-packages\pyspark\sql\streaming\__pycache__\stateful_processor_api_client.cpython-312.pyc
+C:\Users\2000209445\Desktop\FINTEL_UPDATE\gold_venv\Lib\site-packages\pyspark\sql\streaming\__pycache__\value_state_client.cpython-312.pyc
+C:\Users\2000209445\Desktop\FINTEL_UPDATE\gold_venv\Lib\site-packages\pyspark\sql\streaming\__pycache__\__init__.cpython-312.pyc
+C:\Users\2000209445\Desktop\FINTEL_UPDATE\gold_venv\Lib\site-packages\pyspark\sql\worker\analyze_udtf.py
+C:\Users\2000209445\Desktop\FINTEL_UPDATE\gold_venv\Lib\site-packages\pyspark\sql\worker\commit_data_source_write.py
+C:\Users\2000209445\Desktop\FINTEL_UPDATE\gold_venv\Lib\site-packages\pyspark\sql\worker\create_data_source.py
+C:\Users\2000209445\Desktop\FINTEL_UPDATE\gold_venv\Lib\site-packages\pyspark\sql\worker\data_source_pushdown_filters.py
+C:\Users\2000209445\Desktop\FINTEL_UPDATE\gold_venv\Lib\site-packages\pyspark\sql\worker\lookup_data_sources.py
+C:\Users\2000209445\Desktop\FINTEL_UPDATE\gold_venv\Lib\site-packages\pyspark\sql\worker\plan_data_source_read.py
+C:\Users\2000209445\Desktop\FINTEL_UPDATE\gold_venv\Lib\site-packages\pyspark\sql\worker\python_streaming_sink_runner.py
+C:\Users\2000209445\Desktop\FINTEL_UPDATE\gold_venv\Lib\site-packages\pyspark\sql\worker\write_into_data_source.py
+C:\Users\2000209445\Desktop\FINTEL_UPDATE\gold_venv\Lib\site-packages\pyspark\sql\worker\__init__.py
+C:\Users\2000209445\Desktop\FINTEL_UPDATE\gold_venv\Lib\site-packages\pyspark\sql\__pycache__\catalog.cpython-312.pyc
+C:\Users\2000209445\Desktop\FINTEL_UPDATE\gold_venv\Lib\site-packages\pyspark\sql\__pycache__\column.cpython-312.pyc
+C:\Users\2000209445\Desktop\FINTEL_UPDATE\gold_venv\Lib\site-packages\pyspark\sql\__pycache__\conf.cpython-312.pyc
+C:\Users\2000209445\Desktop\FINTEL_UPDATE\gold_venv\Lib\site-packages\pyspark\sql\__pycache__\context.cpython-312.pyc
+C:\Users\2000209445\Desktop\FINTEL_UPDATE\gold_venv\Lib\site-packages\pyspark\sql\__pycache__\conversion.cpython-312.pyc
+C:\Users\2000209445\Desktop\FINTEL_UPDATE\gold_venv\Lib\site-packages\pyspark\sql\__pycache__\dataframe.cpython-312.pyc
+C:\Users\2000209445\Desktop\FINTEL_UPDATE\gold_venv\Lib\site-packages\pyspark\sql\__pycache__\geo_utils.cpython-312.pyc
+C:\Users\2000209445\Desktop\FINTEL_UPDATE\gold_venv\Lib\site-packages\pyspark\sql\__pycache__\group.cpython-312.pyc
+C:\Users\2000209445\Desktop\FINTEL_UPDATE\gold_venv\Lib\site-packages\pyspark\sql\__pycache__\merge.cpython-312.pyc
+C:\Users\2000209445\Desktop\FINTEL_UPDATE\gold_venv\Lib\site-packages\pyspark\sql\__pycache__\observation.cpython-312.pyc
+C:\Users\2000209445\Desktop\FINTEL_UPDATE\gold_venv\Lib\site-packages\pyspark\sql\__pycache__\profiler.cpython-312.pyc
+C:\Users\2000209445\Desktop\FINTEL_UPDATE\gold_venv\Lib\site-packages\pyspark\sql\__pycache__\readwriter.cpython-312.pyc
+C:\Users\2000209445\Desktop\FINTEL_UPDATE\gold_venv\Lib\site-packages\pyspark\sql\__pycache__\session.cpython-312.pyc
+C:\Users\2000209445\Desktop\FINTEL_UPDATE\gold_venv\Lib\site-packages\pyspark\sql\__pycache__\sql_formatter.cpython-312.pyc
+C:\Users\2000209445\Desktop\FINTEL_UPDATE\gold_venv\Lib\site-packages\pyspark\sql\__pycache__\table_arg.cpython-312.pyc
+C:\Users\2000209445\Desktop\FINTEL_UPDATE\gold_venv\Lib\site-packages\pyspark\sql\__pycache__\tvf_argument.cpython-312.pyc
+C:\Users\2000209445\Desktop\FINTEL_UPDATE\gold_venv\Lib\site-packages\pyspark\sql\__pycache__\types.cpython-312.pyc
+C:\Users\2000209445\Desktop\FINTEL_UPDATE\gold_venv\Lib\site-packages\pyspark\sql\__pycache__\udf.cpython-312.pyc
+C:\Users\2000209445\Desktop\FINTEL_UPDATE\gold_venv\Lib\site-packages\pyspark\sql\__pycache__\udtf.cpython-312.pyc
+C:\Users\2000209445\Desktop\FINTEL_UPDATE\gold_venv\Lib\site-packages\pyspark\sql\__pycache__\utils.cpython-312.pyc
+C:\Users\2000209445\Desktop\FINTEL_UPDATE\gold_venv\Lib\site-packages\pyspark\sql\__pycache__\variant_utils.cpython-312.pyc
+C:\Users\2000209445\Desktop\FINTEL_UPDATE\gold_venv\Lib\site-packages\pyspark\sql\__pycache__\window.cpython-312.pyc
+C:\Users\2000209445\Desktop\FINTEL_UPDATE\gold_venv\Lib\site-packages\pyspark\sql\__pycache__\__init__.cpython-312.pyc
+C:\Users\2000209445\Desktop\FINTEL_UPDATE\gold_venv\Lib\site-packages\pyspark\streaming\context.py
+C:\Users\2000209445\Desktop\FINTEL_UPDATE\gold_venv\Lib\site-packages\pyspark\streaming\dstream.py
+C:\Users\2000209445\Desktop\FINTEL_UPDATE\gold_venv\Lib\site-packages\pyspark\streaming\kinesis.py
+C:\Users\2000209445\Desktop\FINTEL_UPDATE\gold_venv\Lib\site-packages\pyspark\streaming\listener.py
+C:\Users\2000209445\Desktop\FINTEL_UPDATE\gold_venv\Lib\site-packages\pyspark\streaming\util.py
+C:\Users\2000209445\Desktop\FINTEL_UPDATE\gold_venv\Lib\site-packages\pyspark\streaming\__init__.py
+C:\Users\2000209445\Desktop\FINTEL_UPDATE\gold_venv\Lib\site-packages\pyspark\testing\connectutils.py
+C:\Users\2000209445\Desktop\FINTEL_UPDATE\gold_venv\Lib\site-packages\pyspark\testing\mllibutils.py
+C:\Users\2000209445\Desktop\FINTEL_UPDATE\gold_venv\Lib\site-packages\pyspark\testing\mlutils.py
+C:\Users\2000209445\Desktop\FINTEL_UPDATE\gold_venv\Lib\site-packages\pyspark\testing\objects.py
+C:\Users\2000209445\Desktop\FINTEL_UPDATE\gold_venv\Lib\site-packages\pyspark\testing\pandasutils.py
+C:\Users\2000209445\Desktop\FINTEL_UPDATE\gold_venv\Lib\site-packages\pyspark\testing\sqlutils.py
+C:\Users\2000209445\Desktop\FINTEL_UPDATE\gold_venv\Lib\site-packages\pyspark\testing\streamingutils.py
+C:\Users\2000209445\Desktop\FINTEL_UPDATE\gold_venv\Lib\site-packages\pyspark\testing\utils.py
+C:\Users\2000209445\Desktop\FINTEL_UPDATE\gold_venv\Lib\site-packages\pyspark\testing\__init__.py
+C:\Users\2000209445\Desktop\FINTEL_UPDATE\gold_venv\Lib\site-packages\pyspark\testing\__pycache__
+C:\Users\2000209445\Desktop\FINTEL_UPDATE\gold_venv\Lib\site-packages\pyspark\testing\__pycache__\utils.cpython-312.pyc
+C:\Users\2000209445\Desktop\FINTEL_UPDATE\gold_venv\Lib\site-packages\pyspark\testing\__pycache__\__init__.cpython-312.pyc
+C:\Users\2000209445\Desktop\FINTEL_UPDATE\gold_venv\Lib\site-packages\pyspark\__pycache__\accumulators.cpython-312.pyc
+C:\Users\2000209445\Desktop\FINTEL_UPDATE\gold_venv\Lib\site-packages\pyspark\__pycache__\conf.cpython-312.pyc
+C:\Users\2000209445\Desktop\FINTEL_UPDATE\gold_venv\Lib\site-packages\pyspark\__pycache__\find_spark_home.cpython-312.pyc
+C:\Users\2000209445\Desktop\FINTEL_UPDATE\gold_venv\Lib\site-packages\pyspark\__pycache__\java_gateway.cpython-312.pyc
+C:\Users\2000209445\Desktop\FINTEL_UPDATE\gold_venv\Lib\site-packages\pyspark\__pycache__\join.cpython-312.pyc
+C:\Users\2000209445\Desktop\FINTEL_UPDATE\gold_venv\Lib\site-packages\pyspark\__pycache__\loose_version.cpython-312.pyc
+C:\Users\2000209445\Desktop\FINTEL_UPDATE\gold_venv\Lib\site-packages\pyspark\__pycache__\profiler.cpython-312.pyc
+C:\Users\2000209445\Desktop\FINTEL_UPDATE\gold_venv\Lib\site-packages\pyspark\__pycache__\rddsampler.cpython-312.pyc
+C:\Users\2000209445\Desktop\FINTEL_UPDATE\gold_venv\Lib\site-packages\pyspark\__pycache__\resultiterable.cpython-312.pyc
+C:\Users\2000209445\Desktop\FINTEL_UPDATE\gold_venv\Lib\site-packages\pyspark\__pycache__\serializers.cpython-312.pyc
+C:\Users\2000209445\Desktop\FINTEL_UPDATE\gold_venv\Lib\site-packages\pyspark\__pycache__\shuffle.cpython-312.pyc
+C:\Users\2000209445\Desktop\FINTEL_UPDATE\gold_venv\Lib\site-packages\pyspark\__pycache__\statcounter.cpython-312.pyc
+C:\Users\2000209445\Desktop\FINTEL_UPDATE\gold_venv\Lib\site-packages\pyspark\__pycache__\storagelevel.cpython-312.pyc
+C:\Users\2000209445\Desktop\FINTEL_UPDATE\gold_venv\Lib\site-packages\pyspark\__pycache__\taskcontext.cpython-312.pyc
+C:\Users\2000209445\Desktop\FINTEL_UPDATE\gold_venv\Lib\site-packages\pyspark\__pycache__\traceback_utils.cpython-312.pyc
+C:\Users\2000209445\Desktop\FINTEL_UPDATE\gold_venv\Lib\site-packages\pyspark\__pycache__\util.cpython-312.pyc
+C:\Users\2000209445\Desktop\FINTEL_UPDATE\gold_venv\Lib\site-packages\pyspark\__pycache__\version.cpython-312.pyc
+C:\Users\2000209445\Desktop\FINTEL_UPDATE\gold_venv\Lib\site-packages\pyspark\__pycache__\_globals.cpython-312.pyc
+C:\Users\2000209445\Desktop\FINTEL_UPDATE\gold_venv\Lib\site-packages\pyspark\__pycache__\__init__.cpython-312.pyc
+C:\Users\2000209445\Desktop\FINTEL_UPDATE\gold_venv\Lib\site-packages\pyspark-4.1.1.dist-info\INSTALLER
+C:\Users\2000209445\Desktop\FINTEL_UPDATE\gold_venv\Lib\site-packages\pyspark-4.1.1.dist-info\METADATA
+C:\Users\2000209445\Desktop\FINTEL_UPDATE\gold_venv\Lib\site-packages\pyspark-4.1.1.dist-info\RECORD
+C:\Users\2000209445\Desktop\FINTEL_UPDATE\gold_venv\Lib\site-packages\pyspark-4.1.1.dist-info\REQUESTED
+C:\Users\2000209445\Desktop\FINTEL_UPDATE\gold_venv\Lib\site-packages\pyspark-4.1.1.dist-info\top_level.txt
+C:\Users\2000209445\Desktop\FINTEL_UPDATE\gold_venv\Lib\site-packages\pyspark-4.1.1.dist-info\WHEEL
+C:\Users\2000209445\Desktop\FINTEL_UPDATE\gold_venv\Lib\site-packages\python_dateutil-4.0.0.dist-info\INSTALLER
+C:\Users\2000209445\Desktop\FINTEL_UPDATE\gold_venv\Lib\site-packages\python_dateutil-4.0.0.dist-info\licenses
+C:\Users\2000209445\Desktop\FINTEL_UPDATE\gold_venv\Lib\site-packages\python_dateutil-4.0.0.dist-info\METADATA
+C:\Users\2000209445\Desktop\FINTEL_UPDATE\gold_venv\Lib\site-packages\python_dateutil-4.0.0.dist-info\RECORD
+C:\Users\2000209445\Desktop\FINTEL_UPDATE\gold_venv\Lib\site-packages\python_dateutil-4.0.0.dist-info\WHEEL
+C:\Users\2000209445\Desktop\FINTEL_UPDATE\gold_venv\Lib\site-packages\python_dateutil-4.0.0.dist-info\licenses\AUTHORS.md
+C:\Users\2000209445\Desktop\FINTEL_UPDATE\gold_venv\Lib\site-packages\python_dateutil-4.0.0.dist-info\licenses\LICENSE
+C:\Users\2000209445\Desktop\FINTEL_UPDATE\gold_venv\Lib\site-packages\python_dotenv-1.2.4.dist-info\entry_points.txt
+C:\Users\2000209445\Desktop\FINTEL_UPDATE\gold_venv\Lib\site-packages\python_dotenv-1.2.4.dist-info\INSTALLER
+C:\Users\2000209445\Desktop\FINTEL_UPDATE\gold_venv\Lib\site-packages\python_dotenv-1.2.4.dist-info\licenses
+C:\Users\2000209445\Desktop\FINTEL_UPDATE\gold_venv\Lib\site-packages\python_dotenv-1.2.4.dist-info\METADATA
+C:\Users\2000209445\Desktop\FINTEL_UPDATE\gold_venv\Lib\site-packages\python_dotenv-1.2.4.dist-info\RECORD
+C:\Users\2000209445\Desktop\FINTEL_UPDATE\gold_venv\Lib\site-packages\python_dotenv-1.2.4.dist-info\REQUESTED
+C:\Users\2000209445\Desktop\FINTEL_UPDATE\gold_venv\Lib\site-packages\python_dotenv-1.2.4.dist-info\top_level.txt
+C:\Users\2000209445\Desktop\FINTEL_UPDATE\gold_venv\Lib\site-packages\python_dotenv-1.2.4.dist-info\WHEEL
+C:\Users\2000209445\Desktop\FINTEL_UPDATE\gold_venv\Lib\site-packages\python_dotenv-1.2.4.dist-info\licenses\LICENSE
+C:\Users\2000209445\Desktop\FINTEL_UPDATE\gold_venv\Lib\site-packages\tzdata\zoneinfo
+C:\Users\2000209445\Desktop\FINTEL_UPDATE\gold_venv\Lib\site-packages\tzdata\zones
+C:\Users\2000209445\Desktop\FINTEL_UPDATE\gold_venv\Lib\site-packages\tzdata\__init__.py
+C:\Users\2000209445\Desktop\FINTEL_UPDATE\gold_venv\Lib\site-packages\tzdata\__pycache__
+C:\Users\2000209445\Desktop\FINTEL_UPDATE\gold_venv\Lib\site-packages\tzdata\zoneinfo\Africa
+C:\Users\2000209445\Desktop\FINTEL_UPDATE\gold_venv\Lib\site-packages\tzdata\zoneinfo\America
+C:\Users\2000209445\Desktop\FINTEL_UPDATE\gold_venv\Lib\site-packages\tzdata\zoneinfo\Antarctica
+C:\Users\2000209445\Desktop\FINTEL_UPDATE\gold_venv\Lib\site-packages\tzdata\zoneinfo\Arctic
+C:\Users\2000209445\Desktop\FINTEL_UPDATE\gold_venv\Lib\site-packages\tzdata\zoneinfo\Asia
+C:\Users\2000209445\Desktop\FINTEL_UPDATE\gold_venv\Lib\site-packages\tzdata\zoneinfo\Atlantic
+C:\Users\2000209445\Desktop\FINTEL_UPDATE\gold_venv\Lib\site-packages\tzdata\zoneinfo\Australia
+C:\Users\2000209445\Desktop\FINTEL_UPDATE\gold_venv\Lib\site-packages\tzdata\zoneinfo\Brazil
+C:\Users\2000209445\Desktop\FINTEL_UPDATE\gold_venv\Lib\site-packages\tzdata\zoneinfo\Canada
+C:\Users\2000209445\Desktop\FINTEL_UPDATE\gold_venv\Lib\site-packages\tzdata\zoneinfo\CET
+C:\Users\2000209445\Desktop\FINTEL_UPDATE\gold_venv\Lib\site-packages\tzdata\zoneinfo\Chile
+C:\Users\2000209445\Desktop\FINTEL_UPDATE\gold_venv\Lib\site-packages\tzdata\zoneinfo\CST6CDT
+C:\Users\2000209445\Desktop\FINTEL_UPDATE\gold_venv\Lib\site-packages\tzdata\zoneinfo\Cuba
+C:\Users\2000209445\Desktop\FINTEL_UPDATE\gold_venv\Lib\site-packages\tzdata\zoneinfo\EET
+C:\Users\2000209445\Desktop\FINTEL_UPDATE\gold_venv\Lib\site-packages\tzdata\zoneinfo\Egypt
+C:\Users\2000209445\Desktop\FINTEL_UPDATE\gold_venv\Lib\site-packages\tzdata\zoneinfo\Eire
+C:\Users\2000209445\Desktop\FINTEL_UPDATE\gold_venv\Lib\site-packages\tzdata\zoneinfo\EST
+C:\Users\2000209445\Desktop\FINTEL_UPDATE\gold_venv\Lib\site-packages\tzdata\zoneinfo\EST5EDT
+C:\Users\2000209445\Desktop\FINTEL_UPDATE\gold_venv\Lib\site-packages\tzdata\zoneinfo\Etc
+C:\Users\2000209445\Desktop\FINTEL_UPDATE\gold_venv\Lib\site-packages\tzdata\zoneinfo\Europe
+C:\Users\2000209445\Desktop\FINTEL_UPDATE\gold_venv\Lib\site-packages\tzdata\zoneinfo\Factory
+C:\Users\2000209445\Desktop\FINTEL_UPDATE\gold_venv\Lib\site-packages\tzdata\zoneinfo\GB
+C:\Users\2000209445\Desktop\FINTEL_UPDATE\gold_venv\Lib\site-packages\tzdata\zoneinfo\GB-Eire
+C:\Users\2000209445\Desktop\FINTEL_UPDATE\gold_venv\Lib\site-packages\tzdata\zoneinfo\GMT
+C:\Users\2000209445\Desktop\FINTEL_UPDATE\gold_venv\Lib\site-packages\tzdata\zoneinfo\GMT+0
+C:\Users\2000209445\Desktop\FINTEL_UPDATE\gold_venv\Lib\site-packages\tzdata\zoneinfo\GMT-0
+C:\Users\2000209445\Desktop\FINTEL_UPDATE\gold_venv\Lib\site-packages\tzdata\zoneinfo\GMT0
+C:\Users\2000209445\Desktop\FINTEL_UPDATE\gold_venv\Lib\site-packages\tzdata\zoneinfo\Greenwich
+C:\Users\2000209445\Desktop\FINTEL_UPDATE\gold_venv\Lib\site-packages\tzdata\zoneinfo\Hongkong
+C:\Users\2000209445\Desktop\FINTEL_UPDATE\gold_venv\Lib\site-packages\tzdata\zoneinfo\HST
+C:\Users\2000209445\Desktop\FINTEL_UPDATE\gold_venv\Lib\site-packages\tzdata\zoneinfo\Iceland
+C:\Users\2000209445\Desktop\FINTEL_UPDATE\gold_venv\Lib\site-packages\tzdata\zoneinfo\Indian
+C:\Users\2000209445\Desktop\FINTEL_UPDATE\gold_venv\Lib\site-packages\tzdata\zoneinfo\Iran
+C:\Users\2000209445\Desktop\FINTEL_UPDATE\gold_venv\Lib\site-packages\tzdata\zoneinfo\iso3166.tab
+C:\Users\2000209445\Desktop\FINTEL_UPDATE\gold_venv\Lib\site-packages\tzdata\zoneinfo\Israel
+C:\Users\2000209445\Desktop\FINTEL_UPDATE\gold_venv\Lib\site-packages\tzdata\zoneinfo\Jamaica
+C:\Users\2000209445\Desktop\FINTEL_UPDATE\gold_venv\Lib\site-packages\tzdata\zoneinfo\Japan
+C:\Users\2000209445\Desktop\FINTEL_UPDATE\gold_venv\Lib\site-packages\tzdata\zoneinfo\Kwajalein
+C:\Users\2000209445\Desktop\FINTEL_UPDATE\gold_venv\Lib\site-packages\tzdata\zoneinfo\leapseconds
+C:\Users\2000209445\Desktop\FINTEL_UPDATE\gold_venv\Lib\site-packages\tzdata\zoneinfo\Libya
+C:\Users\2000209445\Desktop\FINTEL_UPDATE\gold_venv\Lib\site-packages\tzdata\zoneinfo\MET
+C:\Users\2000209445\Desktop\FINTEL_UPDATE\gold_venv\Lib\site-packages\tzdata\zoneinfo\Mexico
+C:\Users\2000209445\Desktop\FINTEL_UPDATE\gold_venv\Lib\site-packages\tzdata\zoneinfo\MST
+C:\Users\2000209445\Desktop\FINTEL_UPDATE\gold_venv\Lib\site-packages\tzdata\zoneinfo\MST7MDT
+C:\Users\2000209445\Desktop\FINTEL_UPDATE\gold_venv\Lib\site-packages\tzdata\zoneinfo\Navajo
+C:\Users\2000209445\Desktop\FINTEL_UPDATE\gold_venv\Lib\site-packages\tzdata\zoneinfo\NZ
+C:\Users\2000209445\Desktop\FINTEL_UPDATE\gold_venv\Lib\site-packages\tzdata\zoneinfo\NZ-CHAT
+C:\Users\2000209445\Desktop\FINTEL_UPDATE\gold_venv\Lib\site-packages\tzdata\zoneinfo\Pacific
+C:\Users\2000209445\Desktop\FINTEL_UPDATE\gold_venv\Lib\site-packages\tzdata\zoneinfo\Poland
+C:\Users\2000209445\Desktop\FINTEL_UPDATE\gold_venv\Lib\site-packages\tzdata\zoneinfo\Portugal
+C:\Users\2000209445\Desktop\FINTEL_UPDATE\gold_venv\Lib\site-packages\tzdata\zoneinfo\PRC
+C:\Users\2000209445\Desktop\FINTEL_UPDATE\gold_venv\Lib\site-packages\tzdata\zoneinfo\PST8PDT
+C:\Users\2000209445\Desktop\FINTEL_UPDATE\gold_venv\Lib\site-packages\tzdata\zoneinfo\ROC
+C:\Users\2000209445\Desktop\FINTEL_UPDATE\gold_venv\Lib\site-packages\tzdata\zoneinfo\ROK
+C:\Users\2000209445\Desktop\FINTEL_UPDATE\gold_venv\Lib\site-packages\tzdata\zoneinfo\Singapore
+C:\Users\2000209445\Desktop\FINTEL_UPDATE\gold_venv\Lib\site-packages\tzdata\zoneinfo\Turkey
+C:\Users\2000209445\Desktop\FINTEL_UPDATE\gold_venv\Lib\site-packages\tzdata\zoneinfo\tzdata.zi
+C:\Users\2000209445\Desktop\FINTEL_UPDATE\gold_venv\Lib\site-packages\tzdata\zoneinfo\UCT
+C:\Users\2000209445\Desktop\FINTEL_UPDATE\gold_venv\Lib\site-packages\tzdata\zoneinfo\Universal
+C:\Users\2000209445\Desktop\FINTEL_UPDATE\gold_venv\Lib\site-packages\tzdata\zoneinfo\US
+C:\Users\2000209445\Desktop\FINTEL_UPDATE\gold_venv\Lib\site-packages\tzdata\zoneinfo\UTC
+C:\Users\2000209445\Desktop\FINTEL_UPDATE\gold_venv\Lib\site-packages\tzdata\zoneinfo\W-SU
+C:\Users\2000209445\Desktop\FINTEL_UPDATE\gold_venv\Lib\site-packages\tzdata\zoneinfo\WET
+C:\Users\2000209445\Desktop\FINTEL_UPDATE\gold_venv\Lib\site-packages\tzdata\zoneinfo\zone.tab
+C:\Users\2000209445\Desktop\FINTEL_UPDATE\gold_venv\Lib\site-packages\tzdata\zoneinfo\zone1970.tab
+C:\Users\2000209445\Desktop\FINTEL_UPDATE\gold_venv\Lib\site-packages\tzdata\zoneinfo\zonenow.tab
+C:\Users\2000209445\Desktop\FINTEL_UPDATE\gold_venv\Lib\site-packages\tzdata\zoneinfo\Zulu
+C:\Users\2000209445\Desktop\FINTEL_UPDATE\gold_venv\Lib\site-packages\tzdata\zoneinfo\__init__.py
+C:\Users\2000209445\Desktop\FINTEL_UPDATE\gold_venv\Lib\site-packages\tzdata\zoneinfo\__pycache__
+C:\Users\2000209445\Desktop\FINTEL_UPDATE\gold_venv\Lib\site-packages\tzdata\zoneinfo\Africa\Abidjan
+C:\Users\2000209445\Desktop\FINTEL_UPDATE\gold_venv\Lib\site-packages\tzdata\zoneinfo\Africa\Accra
+C:\Users\2000209445\Desktop\FINTEL_UPDATE\gold_venv\Lib\site-packages\tzdata\zoneinfo\Africa\Addis_Ababa
+C:\Users\2000209445\Desktop\FINTEL_UPDATE\gold_venv\Lib\site-packages\tzdata\zoneinfo\Africa\Algiers
+C:\Users\2000209445\Desktop\FINTEL_UPDATE\gold_venv\Lib\site-packages\tzdata\zoneinfo\Africa\Asmara
+C:\Users\2000209445\Desktop\FINTEL_UPDATE\gold_venv\Lib\site-packages\tzdata\zoneinfo\Africa\Asmera
+C:\Users\2000209445\Desktop\FINTEL_UPDATE\gold_venv\Lib\site-packages\tzdata\zoneinfo\Africa\Bamako
+C:\Users\2000209445\Desktop\FINTEL_UPDATE\gold_venv\Lib\site-packages\tzdata\zoneinfo\Africa\Bangui
+C:\Users\2000209445\Desktop\FINTEL_UPDATE\gold_venv\Lib\site-packages\tzdata\zoneinfo\Africa\Banjul
+C:\Users\2000209445\Desktop\FINTEL_UPDATE\gold_venv\Lib\site-packages\tzdata\zoneinfo\Africa\Bissau
+C:\Users\2000209445\Desktop\FINTEL_UPDATE\gold_venv\Lib\site-packages\tzdata\zoneinfo\Africa\Blantyre
+C:\Users\2000209445\Desktop\FINTEL_UPDATE\gold_venv\Lib\site-packages\tzdata\zoneinfo\Africa\Brazzaville
+C:\Users\2000209445\Desktop\FINTEL_UPDATE\gold_venv\Lib\site-packages\tzdata\zoneinfo\Africa\Bujumbura
+C:\Users\2000209445\Desktop\FINTEL_UPDATE\gold_venv\Lib\site-packages\tzdata\zoneinfo\Africa\Cairo
+C:\Users\2000209445\Desktop\FINTEL_UPDATE\gold_venv\Lib\site-packages\tzdata\zoneinfo\Africa\Casablanca
+C:\Users\2000209445\Desktop\FINTEL_UPDATE\gold_venv\Lib\site-packages\tzdata\zoneinfo\Africa\Ceuta
+C:\Users\2000209445\Desktop\FINTEL_UPDATE\gold_venv\Lib\site-packages\tzdata\zoneinfo\Africa\Conakry
+C:\Users\2000209445\Desktop\FINTEL_UPDATE\gold_venv\Lib\site-packages\tzdata\zoneinfo\Africa\Dakar
+C:\Users\2000209445\Desktop\FINTEL_UPDATE\gold_venv\Lib\site-packages\tzdata\zoneinfo\Africa\Dar_es_Salaam
+C:\Users\2000209445\Desktop\FINTEL_UPDATE\gold_venv\Lib\site-packages\tzdata\zoneinfo\Africa\Djibouti
+C:\Users\2000209445\Desktop\FINTEL_UPDATE\gold_venv\Lib\site-packages\tzdata\zoneinfo\Africa\Douala
+C:\Users\2000209445\Desktop\FINTEL_UPDATE\gold_venv\Lib\site-packages\tzdata\zoneinfo\Africa\El_Aaiun
+C:\Users\2000209445\Desktop\FINTEL_UPDATE\gold_venv\Lib\site-packages\tzdata\zoneinfo\Africa\Freetown
+C:\Users\2000209445\Desktop\FINTEL_UPDATE\gold_venv\Lib\site-packages\tzdata\zoneinfo\Africa\Gaborone
+C:\Users\2000209445\Desktop\FINTEL_UPDATE\gold_venv\Lib\site-packages\tzdata\zoneinfo\Africa\Harare
+C:\Users\2000209445\Desktop\FINTEL_UPDATE\gold_venv\Lib\site-packages\tzdata\zoneinfo\Africa\Johannesburg
+C:\Users\2000209445\Desktop\FINTEL_UPDATE\gold_venv\Lib\site-packages\tzdata\zoneinfo\Africa\Juba
+C:\Users\2000209445\Desktop\FINTEL_UPDATE\gold_venv\Lib\site-packages\tzdata\zoneinfo\Africa\Kampala
+C:\Users\2000209445\Desktop\FINTEL_UPDATE\gold_venv\Lib\site-packages\tzdata\zoneinfo\Africa\Khartoum
+C:\Users\2000209445\Desktop\FINTEL_UPDATE\gold_venv\Lib\site-packages\tzdata\zoneinfo\Africa\Kigali
+C:\Users\2000209445\Desktop\FINTEL_UPDATE\gold_venv\Lib\site-packages\tzdata\zoneinfo\Africa\Kinshasa
+C:\Users\2000209445\Desktop\FINTEL_UPDATE\gold_venv\Lib\site-packages\tzdata\zoneinfo\Africa\Lagos
+C:\Users\2000209445\Desktop\FINTEL_UPDATE\gold_venv\Lib\site-packages\tzdata\zoneinfo\Africa\Libreville
+C:\Users\2000209445\Desktop\FINTEL_UPDATE\gold_venv\Lib\site-packages\tzdata\zoneinfo\Africa\Lome
+C:\Users\2000209445\Desktop\FINTEL_UPDATE\gold_venv\Lib\site-packages\tzdata\zoneinfo\Africa\Luanda
+C:\Users\2000209445\Desktop\FINTEL_UPDATE\gold_venv\Lib\site-packages\tzdata\zoneinfo\Africa\Lubumbashi
+C:\Users\2000209445\Desktop\FINTEL_UPDATE\gold_venv\Lib\site-packages\tzdata\zoneinfo\Africa\Lusaka
+C:\Users\2000209445\Desktop\FINTEL_UPDATE\gold_venv\Lib\site-packages\tzdata\zoneinfo\Africa\Malabo
+C:\Users\2000209445\Desktop\FINTEL_UPDATE\gold_venv\Lib\site-packages\tzdata\zoneinfo\Africa\Maputo
+C:\Users\2000209445\Desktop\FINTEL_UPDATE\gold_venv\Lib\site-packages\tzdata\zoneinfo\Africa\Maseru
+C:\Users\2000209445\Desktop\FINTEL_UPDATE\gold_venv\Lib\site-packages\tzdata\zoneinfo\Africa\Mbabane
+C:\Users\2000209445\Desktop\FINTEL_UPDATE\gold_venv\Lib\site-packages\tzdata\zoneinfo\Africa\Mogadishu
+C:\Users\2000209445\Desktop\FINTEL_UPDATE\gold_venv\Lib\site-packages\tzdata\zoneinfo\Africa\Monrovia
+C:\Users\2000209445\Desktop\FINTEL_UPDATE\gold_venv\Lib\site-packages\tzdata\zoneinfo\Africa\Nairobi
+C:\Users\2000209445\Desktop\FINTEL_UPDATE\gold_venv\Lib\site-packages\tzdata\zoneinfo\Africa\Ndjamena
+C:\Users\2000209445\Desktop\FINTEL_UPDATE\gold_venv\Lib\site-packages\tzdata\zoneinfo\Africa\Niamey
+C:\Users\2000209445\Desktop\FINTEL_UPDATE\gold_venv\Lib\site-packages\tzdata\zoneinfo\Africa\Nouakchott
+C:\Users\2000209445\Desktop\FINTEL_UPDATE\gold_venv\Lib\site-packages\tzdata\zoneinfo\Africa\Ouagadougou
+C:\Users\2000209445\Desktop\FINTEL_UPDATE\gold_venv\Lib\site-packages\tzdata\zoneinfo\Africa\Porto-Novo
+C:\Users\2000209445\Desktop\FINTEL_UPDATE\gold_venv\Lib\site-packages\tzdata\zoneinfo\Africa\Sao_Tome
+C:\Users\2000209445\Desktop\FINTEL_UPDATE\gold_venv\Lib\site-packages\tzdata\zoneinfo\Africa\Timbuktu
+C:\Users\2000209445\Desktop\FINTEL_UPDATE\gold_venv\Lib\site-packages\tzdata\zoneinfo\Africa\Tripoli
+C:\Users\2000209445\Desktop\FINTEL_UPDATE\gold_venv\Lib\site-packages\tzdata\zoneinfo\Africa\Tunis
+C:\Users\2000209445\Desktop\FINTEL_UPDATE\gold_venv\Lib\site-packages\tzdata\zoneinfo\Africa\Windhoek
+C:\Users\2000209445\Desktop\FINTEL_UPDATE\gold_venv\Lib\site-packages\tzdata\zoneinfo\Africa\__init__.py
+C:\Users\2000209445\Desktop\FINTEL_UPDATE\gold_venv\Lib\site-packages\tzdata\zoneinfo\America\Adak
+C:\Users\2000209445\Desktop\FINTEL_UPDATE\gold_venv\Lib\site-packages\tzdata\zoneinfo\America\Anchorage
+C:\Users\2000209445\Desktop\FINTEL_UPDATE\gold_venv\Lib\site-packages\tzdata\zoneinfo\America\Anguilla
+C:\Users\2000209445\Desktop\FINTEL_UPDATE\gold_venv\Lib\site-packages\tzdata\zoneinfo\America\Antigua
+C:\Users\2000209445\Desktop\FINTEL_UPDATE\gold_venv\Lib\site-packages\tzdata\zoneinfo\America\Araguaina
+C:\Users\2000209445\Desktop\FINTEL_UPDATE\gold_venv\Lib\site-packages\tzdata\zoneinfo\America\Argentina
+C:\Users\2000209445\Desktop\FINTEL_UPDATE\gold_venv\Lib\site-packages\tzdata\zoneinfo\America\Aruba
+C:\Users\2000209445\Desktop\FINTEL_UPDATE\gold_venv\Lib\site-packages\tzdata\zoneinfo\America\Asuncion
+C:\Users\2000209445\Desktop\FINTEL_UPDATE\gold_venv\Lib\site-packages\tzdata\zoneinfo\America\Atikokan
+C:\Users\2000209445\Desktop\FINTEL_UPDATE\gold_venv\Lib\site-packages\tzdata\zoneinfo\America\Atka
+C:\Users\2000209445\Desktop\FINTEL_UPDATE\gold_venv\Lib\site-packages\tzdata\zoneinfo\America\Bahia
+C:\Users\2000209445\Desktop\FINTEL_UPDATE\gold_venv\Lib\site-packages\tzdata\zoneinfo\America\Bahia_Banderas
+C:\Users\2000209445\Desktop\FINTEL_UPDATE\gold_venv\Lib\site-packages\tzdata\zoneinfo\America\Barbados
+C:\Users\2000209445\Desktop\FINTEL_UPDATE\gold_venv\Lib\site-packages\tzdata\zoneinfo\America\Belem
+C:\Users\2000209445\Desktop\FINTEL_UPDATE\gold_venv\Lib\site-packages\tzdata\zoneinfo\America\Belize
+C:\Users\2000209445\Desktop\FINTEL_UPDATE\gold_venv\Lib\site-packages\tzdata\zoneinfo\America\Blanc-Sablon
+C:\Users\2000209445\Desktop\FINTEL_UPDATE\gold_venv\Lib\site-packages\tzdata\zoneinfo\America\Boa_Vista
+C:\Users\2000209445\Desktop\FINTEL_UPDATE\gold_venv\Lib\site-packages\tzdata\zoneinfo\America\Bogota
+C:\Users\2000209445\Desktop\FINTEL_UPDATE\gold_venv\Lib\site-packages\tzdata\zoneinfo\America\Boise
+C:\Users\2000209445\Desktop\FINTEL_UPDATE\gold_venv\Lib\site-packages\tzdata\zoneinfo\America\Buenos_Aires
+C:\Users\2000209445\Desktop\FINTEL_UPDATE\gold_venv\Lib\site-packages\tzdata\zoneinfo\America\Cambridge_Bay
+C:\Users\2000209445\Desktop\FINTEL_UPDATE\gold_venv\Lib\site-packages\tzdata\zoneinfo\America\Campo_Grande
+C:\Users\2000209445\Desktop\FINTEL_UPDATE\gold_venv\Lib\site-packages\tzdata\zoneinfo\America\Cancun
+C:\Users\2000209445\Desktop\FINTEL_UPDATE\gold_venv\Lib\site-packages\tzdata\zoneinfo\America\Caracas
+C:\Users\2000209445\Desktop\FINTEL_UPDATE\gold_venv\Lib\site-packages\tzdata\zoneinfo\America\Catamarca
+C:\Users\2000209445\Desktop\FINTEL_UPDATE\gold_venv\Lib\site-packages\tzdata\zoneinfo\America\Cayenne
+C:\Users\2000209445\Desktop\FINTEL_UPDATE\gold_venv\Lib\site-packages\tzdata\zoneinfo\America\Cayman
+C:\Users\2000209445\Desktop\FINTEL_UPDATE\gold_venv\Lib\site-packages\tzdata\zoneinfo\America\Chicago
+C:\Users\2000209445\Desktop\FINTEL_UPDATE\gold_venv\Lib\site-packages\tzdata\zoneinfo\America\Chihuahua
+C:\Users\2000209445\Desktop\FINTEL_UPDATE\gold_venv\Lib\site-packages\tzdata\zoneinfo\America\Ciudad_Juarez
+C:\Users\2000209445\Desktop\FINTEL_UPDATE\gold_venv\Lib\site-packages\tzdata\zoneinfo\America\Coral_Harbour
+C:\Users\2000209445\Desktop\FINTEL_UPDATE\gold_venv\Lib\site-packages\tzdata\zoneinfo\America\Cordoba
+C:\Users\2000209445\Desktop\FINTEL_UPDATE\gold_venv\Lib\site-packages\tzdata\zoneinfo\America\Costa_Rica
+C:\Users\2000209445\Desktop\FINTEL_UPDATE\gold_venv\Lib\site-packages\tzdata\zoneinfo\America\Coyhaique
+C:\Users\2000209445\Desktop\FINTEL_UPDATE\gold_venv\Lib\site-packages\tzdata\zoneinfo\America\Creston
+C:\Users\2000209445\Desktop\FINTEL_UPDATE\gold_venv\Lib\site-packages\tzdata\zoneinfo\America\Cuiaba
+C:\Users\2000209445\Desktop\FINTEL_UPDATE\gold_venv\Lib\site-packages\tzdata\zoneinfo\America\Curacao
+C:\Users\2000209445\Desktop\FINTEL_UPDATE\gold_venv\Lib\site-packages\tzdata\zoneinfo\America\Danmarkshavn
+C:\Users\2000209445\Desktop\FINTEL_UPDATE\gold_venv\Lib\site-packages\tzdata\zoneinfo\America\Dawson
+C:\Users\2000209445\Desktop\FINTEL_UPDATE\gold_venv\Lib\site-packages\tzdata\zoneinfo\America\Dawson_Creek
+C:\Users\2000209445\Desktop\FINTEL_UPDATE\gold_venv\Lib\site-packages\tzdata\zoneinfo\America\Denver
+C:\Users\2000209445\Desktop\FINTEL_UPDATE\gold_venv\Lib\site-packages\tzdata\zoneinfo\America\Detroit
+C:\Users\2000209445\Desktop\FINTEL_UPDATE\gold_venv\Lib\site-packages\tzdata\zoneinfo\America\Dominica
+C:\Users\2000209445\Desktop\FINTEL_UPDATE\gold_venv\Lib\site-packages\tzdata\zoneinfo\America\Edmonton
+C:\Users\2000209445\Desktop\FINTEL_UPDATE\gold_venv\Lib\site-packages\tzdata\zoneinfo\America\Eirunepe
+C:\Users\2000209445\Desktop\FINTEL_UPDATE\gold_venv\Lib\site-packages\tzdata\zoneinfo\America\El_Salvador
+C:\Users\2000209445\Desktop\FINTEL_UPDATE\gold_venv\Lib\site-packages\tzdata\zoneinfo\America\Ensenada
+C:\Users\2000209445\Desktop\FINTEL_UPDATE\gold_venv\Lib\site-packages\tzdata\zoneinfo\America\Fortaleza
+C:\Users\2000209445\Desktop\FINTEL_UPDATE\gold_venv\Lib\site-packages\tzdata\zoneinfo\America\Fort_Nelson
+C:\Users\2000209445\Desktop\FINTEL_UPDATE\gold_venv\Lib\site-packages\tzdata\zoneinfo\America\Fort_Wayne
+C:\Users\2000209445\Desktop\FINTEL_UPDATE\gold_venv\Lib\site-packages\tzdata\zoneinfo\America\Glace_Bay
+C:\Users\2000209445\Desktop\FINTEL_UPDATE\gold_venv\Lib\site-packages\tzdata\zoneinfo\America\Godthab
+C:\Users\2000209445\Desktop\FINTEL_UPDATE\gold_venv\Lib\site-packages\tzdata\zoneinfo\America\Goose_Bay
+C:\Users\2000209445\Desktop\FINTEL_UPDATE\gold_venv\Lib\site-packages\tzdata\zoneinfo\America\Grand_Turk
+C:\Users\2000209445\Desktop\FINTEL_UPDATE\gold_venv\Lib\site-packages\tzdata\zoneinfo\America\Grenada
+C:\Users\2000209445\Desktop\FINTEL_UPDATE\gold_venv\Lib\site-packages\tzdata\zoneinfo\America\Guadeloupe
+C:\Users\2000209445\Desktop\FINTEL_UPDATE\gold_venv\Lib\site-packages\tzdata\zoneinfo\America\Guatemala
+C:\Users\2000209445\Desktop\FINTEL_UPDATE\gold_venv\Lib\site-packages\tzdata\zoneinfo\America\Guayaquil
+C:\Users\2000209445\Desktop\FINTEL_UPDATE\gold_venv\Lib\site-packages\tzdata\zoneinfo\America\Guyana
+C:\Users\2000209445\Desktop\FINTEL_UPDATE\gold_venv\Lib\site-packages\tzdata\zoneinfo\America\Halifax
+C:\Users\2000209445\Desktop\FINTEL_UPDATE\gold_venv\Lib\site-packages\tzdata\zoneinfo\America\Havana
+C:\Users\2000209445\Desktop\FINTEL_UPDATE\gold_venv\Lib\site-packages\tzdata\zoneinfo\America\Hermosillo
+C:\Users\2000209445\Desktop\FINTEL_UPDATE\gold_venv\Lib\site-packages\tzdata\zoneinfo\America\Indiana
+C:\Users\2000209445\Desktop\FINTEL_UPDATE\gold_venv\Lib\site-packages\tzdata\zoneinfo\America\Indianapolis
+C:\Users\2000209445\Desktop\FINTEL_UPDATE\gold_venv\Lib\site-packages\tzdata\zoneinfo\America\Inuvik
+C:\Users\2000209445\Desktop\FINTEL_UPDATE\gold_venv\Lib\site-packages\tzdata\zoneinfo\America\Iqaluit
+C:\Users\2000209445\Desktop\FINTEL_UPDATE\gold_venv\Lib\site-packages\tzdata\zoneinfo\America\Jamaica
+C:\Users\2000209445\Desktop\FINTEL_UPDATE\gold_venv\Lib\site-packages\tzdata\zoneinfo\America\Jujuy
+C:\Users\2000209445\Desktop\FINTEL_UPDATE\gold_venv\Lib\site-packages\tzdata\zoneinfo\America\Juneau
+C:\Users\2000209445\Desktop\FINTEL_UPDATE\gold_venv\Lib\site-packages\tzdata\zoneinfo\America\Kentucky
+C:\Users\2000209445\Desktop\FINTEL_UPDATE\gold_venv\Lib\site-packages\tzdata\zoneinfo\America\Knox_IN
+C:\Users\2000209445\Desktop\FINTEL_UPDATE\gold_venv\Lib\site-packages\tzdata\zoneinfo\America\Kralendijk
+C:\Users\2000209445\Desktop\FINTEL_UPDATE\gold_venv\Lib\site-packages\tzdata\zoneinfo\America\La_Paz
+C:\Users\2000209445\Desktop\FINTEL_UPDATE\gold_venv\Lib\site-packages\tzdata\zoneinfo\America\Lima
+C:\Users\2000209445\Desktop\FINTEL_UPDATE\gold_venv\Lib\site-packages\tzdata\zoneinfo\America\Los_Angeles
+C:\Users\2000209445\Desktop\FINTEL_UPDATE\gold_venv\Lib\site-packages\tzdata\zoneinfo\America\Louisville
+C:\Users\2000209445\Desktop\FINTEL_UPDATE\gold_venv\Lib\site-packages\tzdata\zoneinfo\America\Lower_Princes
+C:\Users\2000209445\Desktop\FINTEL_UPDATE\gold_venv\Lib\site-packages\tzdata\zoneinfo\America\Maceio
+C:\Users\2000209445\Desktop\FINTEL_UPDATE\gold_venv\Lib\site-packages\tzdata\zoneinfo\America\Managua
+C:\Users\2000209445\Desktop\FINTEL_UPDATE\gold_venv\Lib\site-packages\tzdata\zoneinfo\America\Manaus
+C:\Users\2000209445\Desktop\FINTEL_UPDATE\gold_venv\Lib\site-packages\tzdata\zoneinfo\America\Marigot
+C:\Users\2000209445\Desktop\FINTEL_UPDATE\gold_venv\Lib\site-packages\tzdata\zoneinfo\America\Martinique
+C:\Users\2000209445\Desktop\FINTEL_UPDATE\gold_venv\Lib\site-packages\tzdata\zoneinfo\America\Matamoros
+C:\Users\2000209445\Desktop\FINTEL_UPDATE\gold_venv\Lib\site-packages\tzdata\zoneinfo\America\Mazatlan
+C:\Users\2000209445\Desktop\FINTEL_UPDATE\gold_venv\Lib\site-packages\tzdata\zoneinfo\America\Mendoza
+C:\Users\2000209445\Desktop\FINTEL_UPDATE\gold_venv\Lib\site-packages\tzdata\zoneinfo\America\Menominee
+C:\Users\2000209445\Desktop\FINTEL_UPDATE\gold_venv\Lib\site-packages\tzdata\zoneinfo\America\Merida
+C:\Users\2000209445\Desktop\FINTEL_UPDATE\gold_venv\Lib\site-packages\tzdata\zoneinfo\America\Metlakatla
+C:\Users\2000209445\Desktop\FINTEL_UPDATE\gold_venv\Lib\site-packages\tzdata\zoneinfo\America\Mexico_City
+C:\Users\2000209445\Desktop\FINTEL_UPDATE\gold_venv\Lib\site-packages\tzdata\zoneinfo\America\Miquelon
+C:\Users\2000209445\Desktop\FINTEL_UPDATE\gold_venv\Lib\site-packages\tzdata\zoneinfo\America\Moncton
+C:\Users\2000209445\Desktop\FINTEL_UPDATE\gold_venv\Lib\site-packages\tzdata\zoneinfo\America\Monterrey
+C:\Users\2000209445\Desktop\FINTEL_UPDATE\gold_venv\Lib\site-packages\tzdata\zoneinfo\America\Montevideo
+C:\Users\2000209445\Desktop\FINTEL_UPDATE\gold_venv\Lib\site-packages\tzdata\zoneinfo\America\Montreal
+C:\Users\2000209445\Desktop\FINTEL_UPDATE\gold_venv\Lib\site-packages\tzdata\zoneinfo\America\Montserrat
+C:\Users\2000209445\Desktop\FINTEL_UPDATE\gold_venv\Lib\site-packages\tzdata\zoneinfo\America\Nassau
+C:\Users\2000209445\Desktop\FINTEL_UPDATE\gold_venv\Lib\site-packages\tzdata\zoneinfo\America\New_York
+C:\Users\2000209445\Desktop\FINTEL_UPDATE\gold_venv\Lib\site-packages\tzdata\zoneinfo\America\Nipigon
+C:\Users\2000209445\Desktop\FINTEL_UPDATE\gold_venv\Lib\site-packages\tzdata\zoneinfo\America\Nome
+C:\Users\2000209445\Desktop\FINTEL_UPDATE\gold_venv\Lib\site-packages\tzdata\zoneinfo\America\Noronha
+C:\Users\2000209445\Desktop\FINTEL_UPDATE\gold_venv\Lib\site-packages\tzdata\zoneinfo\America\North_Dakota
+C:\Users\2000209445\Desktop\FINTEL_UPDATE\gold_venv\Lib\site-packages\tzdata\zoneinfo\America\Nuuk
+C:\Users\2000209445\Desktop\FINTEL_UPDATE\gold_venv\Lib\site-packages\tzdata\zoneinfo\America\Ojinaga
+C:\Users\2000209445\Desktop\FINTEL_UPDATE\gold_venv\Lib\site-packages\tzdata\zoneinfo\America\Panama
+C:\Users\2000209445\Desktop\FINTEL_UPDATE\gold_venv\Lib\site-packages\tzdata\zoneinfo\America\Pangnirtung
+C:\Users\2000209445\Desktop\FINTEL_UPDATE\gold_venv\Lib\site-packages\tzdata\zoneinfo\America\Paramaribo
+C:\Users\2000209445\Desktop\FINTEL_UPDATE\gold_venv\Lib\site-packages\tzdata\zoneinfo\America\Phoenix
+C:\Users\2000209445\Desktop\FINTEL_UPDATE\gold_venv\Lib\site-packages\tzdata\zoneinfo\America\Port-au-Prince
+C:\Users\2000209445\Desktop\FINTEL_UPDATE\gold_venv\Lib\site-packages\tzdata\zoneinfo\America\Porto_Acre
+C:\Users\2000209445\Desktop\FINTEL_UPDATE\gold_venv\Lib\site-packages\tzdata\zoneinfo\America\Porto_Velho
+C:\Users\2000209445\Desktop\FINTEL_UPDATE\gold_venv\Lib\site-packages\tzdata\zoneinfo\America\Port_of_Spain
+C:\Users\2000209445\Desktop\FINTEL_UPDATE\gold_venv\Lib\site-packages\tzdata\zoneinfo\America\Puerto_Rico
+C:\Users\2000209445\Desktop\FINTEL_UPDATE\gold_venv\Lib\site-packages\tzdata\zoneinfo\America\Punta_Arenas
+C:\Users\2000209445\Desktop\FINTEL_UPDATE\gold_venv\Lib\site-packages\tzdata\zoneinfo\America\Rainy_River
+C:\Users\2000209445\Desktop\FINTEL_UPDATE\gold_venv\Lib\site-packages\tzdata\zoneinfo\America\Rankin_Inlet
+C:\Users\2000209445\Desktop\FINTEL_UPDATE\gold_venv\Lib\site-packages\tzdata\zoneinfo\America\Recife
+C:\Users\2000209445\Desktop\FINTEL_UPDATE\gold_venv\Lib\site-packages\tzdata\zoneinfo\America\Regina
+C:\Users\2000209445\Desktop\FINTEL_UPDATE\gold_venv\Lib\site-packages\tzdata\zoneinfo\America\Resolute
+C:\Users\2000209445\Desktop\FINTEL_UPDATE\gold_venv\Lib\site-packages\tzdata\zoneinfo\America\Rio_Branco
+C:\Users\2000209445\Desktop\FINTEL_UPDATE\gold_venv\Lib\site-packages\tzdata\zoneinfo\America\Rosario
+C:\Users\2000209445\Desktop\FINTEL_UPDATE\gold_venv\Lib\site-packages\tzdata\zoneinfo\America\Santarem
+C:\Users\2000209445\Desktop\FINTEL_UPDATE\gold_venv\Lib\site-packages\tzdata\zoneinfo\America\Santa_Isabel
+C:\Users\2000209445\Desktop\FINTEL_UPDATE\gold_venv\Lib\site-packages\tzdata\zoneinfo\America\Santiago
+C:\Users\2000209445\Desktop\FINTEL_UPDATE\gold_venv\Lib\site-packages\tzdata\zoneinfo\America\Santo_Domingo
+C:\Users\2000209445\Desktop\FINTEL_UPDATE\gold_venv\Lib\site-packages\tzdata\zoneinfo\America\Sao_Paulo
+C:\Users\2000209445\Desktop\FINTEL_UPDATE\gold_venv\Lib\site-packages\tzdata\zoneinfo\America\Scoresbysund
+C:\Users\2000209445\Desktop\FINTEL_UPDATE\gold_venv\Lib\site-packages\tzdata\zoneinfo\America\Shiprock
+C:\Users\2000209445\Desktop\FINTEL_UPDATE\gold_venv\Lib\site-packages\tzdata\zoneinfo\America\Sitka
+C:\Users\2000209445\Desktop\FINTEL_UPDATE\gold_venv\Lib\site-packages\tzdata\zoneinfo\America\St_Barthelemy
+C:\Users\2000209445\Desktop\FINTEL_UPDATE\gold_venv\Lib\site-packages\tzdata\zoneinfo\America\St_Johns
+C:\Users\2000209445\Desktop\FINTEL_UPDATE\gold_venv\Lib\site-packages\tzdata\zoneinfo\America\St_Kitts
+C:\Users\2000209445\Desktop\FINTEL_UPDATE\gold_venv\Lib\site-packages\tzdata\zoneinfo\America\St_Lucia
+C:\Users\2000209445\Desktop\FINTEL_UPDATE\gold_venv\Lib\site-packages\tzdata\zoneinfo\America\St_Thomas
+C:\Users\2000209445\Desktop\FINTEL_UPDATE\gold_venv\Lib\site-packages\tzdata\zoneinfo\America\St_Vincent
+C:\Users\2000209445\Desktop\FINTEL_UPDATE\gold_venv\Lib\site-packages\tzdata\zoneinfo\America\Swift_Current
+C:\Users\2000209445\Desktop\FINTEL_UPDATE\gold_venv\Lib\site-packages\tzdata\zoneinfo\America\Tegucigalpa
+C:\Users\2000209445\Desktop\FINTEL_UPDATE\gold_venv\Lib\site-packages\tzdata\zoneinfo\America\Thule
+C:\Users\2000209445\Desktop\FINTEL_UPDATE\gold_venv\Lib\site-packages\tzdata\zoneinfo\America\Thunder_Bay
+C:\Users\2000209445\Desktop\FINTEL_UPDATE\gold_venv\Lib\site-packages\tzdata\zoneinfo\America\Tijuana
+C:\Users\2000209445\Desktop\FINTEL_UPDATE\gold_venv\Lib\site-packages\tzdata\zoneinfo\America\Toronto
+C:\Users\2000209445\Desktop\FINTEL_UPDATE\gold_venv\Lib\site-packages\tzdata\zoneinfo\America\Tortola
+C:\Users\2000209445\Desktop\FINTEL_UPDATE\gold_venv\Lib\site-packages\tzdata\zoneinfo\America\Vancouver
+C:\Users\2000209445\Desktop\FINTEL_UPDATE\gold_venv\Lib\site-packages\tzdata\zoneinfo\America\Virgin
+C:\Users\2000209445\Desktop\FINTEL_UPDATE\gold_venv\Lib\site-packages\tzdata\zoneinfo\America\Whitehorse
+C:\Users\2000209445\Desktop\FINTEL_UPDATE\gold_venv\Lib\site-packages\tzdata\zoneinfo\America\Winnipeg
+C:\Users\2000209445\Desktop\FINTEL_UPDATE\gold_venv\Lib\site-packages\tzdata\zoneinfo\America\Yakutat
+C:\Users\2000209445\Desktop\FINTEL_UPDATE\gold_venv\Lib\site-packages\tzdata\zoneinfo\America\Yellowknife
+C:\Users\2000209445\Desktop\FINTEL_UPDATE\gold_venv\Lib\site-packages\tzdata\zoneinfo\America\__init__.py
+C:\Users\2000209445\Desktop\FINTEL_UPDATE\gold_venv\Lib\site-packages\tzdata\zoneinfo\America\Argentina\Buenos_Aires
+C:\Users\2000209445\Desktop\FINTEL_UPDATE\gold_venv\Lib\site-packages\tzdata\zoneinfo\America\Argentina\Catamarca
+C:\Users\2000209445\Desktop\FINTEL_UPDATE\gold_venv\Lib\site-packages\tzdata\zoneinfo\America\Argentina\ComodRivadavia
+C:\Users\2000209445\Desktop\FINTEL_UPDATE\gold_venv\Lib\site-packages\tzdata\zoneinfo\America\Argentina\Cordoba
+C:\Users\2000209445\Desktop\FINTEL_UPDATE\gold_venv\Lib\site-packages\tzdata\zoneinfo\America\Argentina\Jujuy
+C:\Users\2000209445\Desktop\FINTEL_UPDATE\gold_venv\Lib\site-packages\tzdata\zoneinfo\America\Argentina\La_Rioja
+C:\Users\2000209445\Desktop\FINTEL_UPDATE\gold_venv\Lib\site-packages\tzdata\zoneinfo\America\Argentina\Mendoza
+C:\Users\2000209445\Desktop\FINTEL_UPDATE\gold_venv\Lib\site-packages\tzdata\zoneinfo\America\Argentina\Rio_Gallegos
+C:\Users\2000209445\Desktop\FINTEL_UPDATE\gold_venv\Lib\site-packages\tzdata\zoneinfo\America\Argentina\Salta
+C:\Users\2000209445\Desktop\FINTEL_UPDATE\gold_venv\Lib\site-packages\tzdata\zoneinfo\America\Argentina\San_Juan
+C:\Users\2000209445\Desktop\FINTEL_UPDATE\gold_venv\Lib\site-packages\tzdata\zoneinfo\America\Argentina\San_Luis
+C:\Users\2000209445\Desktop\FINTEL_UPDATE\gold_venv\Lib\site-packages\tzdata\zoneinfo\America\Argentina\Tucuman
+C:\Users\2000209445\Desktop\FINTEL_UPDATE\gold_venv\Lib\site-packages\tzdata\zoneinfo\America\Argentina\Ushuaia
+C:\Users\2000209445\Desktop\FINTEL_UPDATE\gold_venv\Lib\site-packages\tzdata\zoneinfo\America\Argentina\__init__.py
+C:\Users\2000209445\Desktop\FINTEL_UPDATE\gold_venv\Lib\site-packages\tzdata\zoneinfo\America\Indiana\Indianapolis
+C:\Users\2000209445\Desktop\FINTEL_UPDATE\gold_venv\Lib\site-packages\tzdata\zoneinfo\America\Indiana\Knox
+C:\Users\2000209445\Desktop\FINTEL_UPDATE\gold_venv\Lib\site-packages\tzdata\zoneinfo\America\Indiana\Marengo
+C:\Users\2000209445\Desktop\FINTEL_UPDATE\gold_venv\Lib\site-packages\tzdata\zoneinfo\America\Indiana\Petersburg
+C:\Users\2000209445\Desktop\FINTEL_UPDATE\gold_venv\Lib\site-packages\tzdata\zoneinfo\America\Indiana\Tell_City
+C:\Users\2000209445\Desktop\FINTEL_UPDATE\gold_venv\Lib\site-packages\tzdata\zoneinfo\America\Indiana\Vevay
+C:\Users\2000209445\Desktop\FINTEL_UPDATE\gold_venv\Lib\site-packages\tzdata\zoneinfo\America\Indiana\Vincennes
+C:\Users\2000209445\Desktop\FINTEL_UPDATE\gold_venv\Lib\site-packages\tzdata\zoneinfo\America\Indiana\Winamac
+C:\Users\2000209445\Desktop\FINTEL_UPDATE\gold_venv\Lib\site-packages\tzdata\zoneinfo\America\Indiana\__init__.py
+C:\Users\2000209445\Desktop\FINTEL_UPDATE\gold_venv\Lib\site-packages\tzdata\zoneinfo\America\Kentucky\Louisville
+C:\Users\2000209445\Desktop\FINTEL_UPDATE\gold_venv\Lib\site-packages\tzdata\zoneinfo\America\Kentucky\Monticello
+C:\Users\2000209445\Desktop\FINTEL_UPDATE\gold_venv\Lib\site-packages\tzdata\zoneinfo\America\Kentucky\__init__.py
+C:\Users\2000209445\Desktop\FINTEL_UPDATE\gold_venv\Lib\site-packages\tzdata\zoneinfo\America\North_Dakota\Beulah
+C:\Users\2000209445\Desktop\FINTEL_UPDATE\gold_venv\Lib\site-packages\tzdata\zoneinfo\America\North_Dakota\Center
+C:\Users\2000209445\Desktop\FINTEL_UPDATE\gold_venv\Lib\site-packages\tzdata\zoneinfo\America\North_Dakota\New_Salem
+C:\Users\2000209445\Desktop\FINTEL_UPDATE\gold_venv\Lib\site-packages\tzdata\zoneinfo\America\North_Dakota\__init__.py
+C:\Users\2000209445\Desktop\FINTEL_UPDATE\gold_venv\Lib\site-packages\tzdata\zoneinfo\Antarctica\Casey
+C:\Users\2000209445\Desktop\FINTEL_UPDATE\gold_venv\Lib\site-packages\tzdata\zoneinfo\Antarctica\Davis
+C:\Users\2000209445\Desktop\FINTEL_UPDATE\gold_venv\Lib\site-packages\tzdata\zoneinfo\Antarctica\DumontDUrville
+C:\Users\2000209445\Desktop\FINTEL_UPDATE\gold_venv\Lib\site-packages\tzdata\zoneinfo\Antarctica\Macquarie
+C:\Users\2000209445\Desktop\FINTEL_UPDATE\gold_venv\Lib\site-packages\tzdata\zoneinfo\Antarctica\Mawson
+C:\Users\2000209445\Desktop\FINTEL_UPDATE\gold_venv\Lib\site-packages\tzdata\zoneinfo\Antarctica\McMurdo
+C:\Users\2000209445\Desktop\FINTEL_UPDATE\gold_venv\Lib\site-packages\tzdata\zoneinfo\Antarctica\Palmer
+C:\Users\2000209445\Desktop\FINTEL_UPDATE\gold_venv\Lib\site-packages\tzdata\zoneinfo\Antarctica\Rothera
+C:\Users\2000209445\Desktop\FINTEL_UPDATE\gold_venv\Lib\site-packages\tzdata\zoneinfo\Antarctica\South_Pole
+C:\Users\2000209445\Desktop\FINTEL_UPDATE\gold_venv\Lib\site-packages\tzdata\zoneinfo\Antarctica\Syowa
+C:\Users\2000209445\Desktop\FINTEL_UPDATE\gold_venv\Lib\site-packages\tzdata\zoneinfo\Antarctica\Troll
+C:\Users\2000209445\Desktop\FINTEL_UPDATE\gold_venv\Lib\site-packages\tzdata\zoneinfo\Antarctica\Vostok
+C:\Users\2000209445\Desktop\FINTEL_UPDATE\gold_venv\Lib\site-packages\tzdata\zoneinfo\Antarctica\__init__.py
+C:\Users\2000209445\Desktop\FINTEL_UPDATE\gold_venv\Lib\site-packages\tzdata\zoneinfo\Arctic\Longyearbyen
+C:\Users\2000209445\Desktop\FINTEL_UPDATE\gold_venv\Lib\site-packages\tzdata\zoneinfo\Arctic\__init__.py
+C:\Users\2000209445\Desktop\FINTEL_UPDATE\gold_venv\Lib\site-packages\tzdata\zoneinfo\Asia\Aden
+C:\Users\2000209445\Desktop\FINTEL_UPDATE\gold_venv\Lib\site-packages\tzdata\zoneinfo\Asia\Almaty
+C:\Users\2000209445\Desktop\FINTEL_UPDATE\gold_venv\Lib\site-packages\tzdata\zoneinfo\Asia\Amman
+C:\Users\2000209445\Desktop\FINTEL_UPDATE\gold_venv\Lib\site-packages\tzdata\zoneinfo\Asia\Anadyr
+C:\Users\2000209445\Desktop\FINTEL_UPDATE\gold_venv\Lib\site-packages\tzdata\zoneinfo\Asia\Aqtau
+C:\Users\2000209445\Desktop\FINTEL_UPDATE\gold_venv\Lib\site-packages\tzdata\zoneinfo\Asia\Aqtobe
+C:\Users\2000209445\Desktop\FINTEL_UPDATE\gold_venv\Lib\site-packages\tzdata\zoneinfo\Asia\Ashgabat
+C:\Users\2000209445\Desktop\FINTEL_UPDATE\gold_venv\Lib\site-packages\tzdata\zoneinfo\Asia\Ashkhabad
+C:\Users\2000209445\Desktop\FINTEL_UPDATE\gold_venv\Lib\site-packages\tzdata\zoneinfo\Asia\Atyrau
+C:\Users\2000209445\Desktop\FINTEL_UPDATE\gold_venv\Lib\site-packages\tzdata\zoneinfo\Asia\Baghdad
+C:\Users\2000209445\Desktop\FINTEL_UPDATE\gold_venv\Lib\site-packages\tzdata\zoneinfo\Asia\Bahrain
+C:\Users\2000209445\Desktop\FINTEL_UPDATE\gold_venv\Lib\site-packages\tzdata\zoneinfo\Asia\Baku
+C:\Users\2000209445\Desktop\FINTEL_UPDATE\gold_venv\Lib\site-packages\tzdata\zoneinfo\Asia\Bangkok
+C:\Users\2000209445\Desktop\FINTEL_UPDATE\gold_venv\Lib\site-packages\tzdata\zoneinfo\Asia\Barnaul
+C:\Users\2000209445\Desktop\FINTEL_UPDATE\gold_venv\Lib\site-packages\tzdata\zoneinfo\Asia\Beirut
+C:\Users\2000209445\Desktop\FINTEL_UPDATE\gold_venv\Lib\site-packages\tzdata\zoneinfo\Asia\Bishkek
+C:\Users\2000209445\Desktop\FINTEL_UPDATE\gold_venv\Lib\site-packages\tzdata\zoneinfo\Asia\Brunei
+C:\Users\2000209445\Desktop\FINTEL_UPDATE\gold_venv\Lib\site-packages\tzdata\zoneinfo\Asia\Calcutta
+C:\Users\2000209445\Desktop\FINTEL_UPDATE\gold_venv\Lib\site-packages\tzdata\zoneinfo\Asia\Chita
+C:\Users\2000209445\Desktop\FINTEL_UPDATE\gold_venv\Lib\site-packages\tzdata\zoneinfo\Asia\Choibalsan
+C:\Users\2000209445\Desktop\FINTEL_UPDATE\gold_venv\Lib\site-packages\tzdata\zoneinfo\Asia\Chongqing
+C:\Users\2000209445\Desktop\FINTEL_UPDATE\gold_venv\Lib\site-packages\tzdata\zoneinfo\Asia\Chungking
+C:\Users\2000209445\Desktop\FINTEL_UPDATE\gold_venv\Lib\site-packages\tzdata\zoneinfo\Asia\Colombo
+C:\Users\2000209445\Desktop\FINTEL_UPDATE\gold_venv\Lib\site-packages\tzdata\zoneinfo\Asia\Dacca
+C:\Users\2000209445\Desktop\FINTEL_UPDATE\gold_venv\Lib\site-packages\tzdata\zoneinfo\Asia\Damascus
+C:\Users\2000209445\Desktop\FINTEL_UPDATE\gold_venv\Lib\site-packages\tzdata\zoneinfo\Asia\Dhaka
+C:\Users\2000209445\Desktop\FINTEL_UPDATE\gold_venv\Lib\site-packages\tzdata\zoneinfo\Asia\Dili
+C:\Users\2000209445\Desktop\FINTEL_UPDATE\gold_venv\Lib\site-packages\tzdata\zoneinfo\Asia\Dubai
+C:\Users\2000209445\Desktop\FINTEL_UPDATE\gold_venv\Lib\site-packages\tzdata\zoneinfo\Asia\Dushanbe
+C:\Users\2000209445\Desktop\FINTEL_UPDATE\gold_venv\Lib\site-packages\tzdata\zoneinfo\Asia\Famagusta
+C:\Users\2000209445\Desktop\FINTEL_UPDATE\gold_venv\Lib\site-packages\tzdata\zoneinfo\Asia\Gaza
+C:\Users\2000209445\Desktop\FINTEL_UPDATE\gold_venv\Lib\site-packages\tzdata\zoneinfo\Asia\Harbin
+C:\Users\2000209445\Desktop\FINTEL_UPDATE\gold_venv\Lib\site-packages\tzdata\zoneinfo\Asia\Hebron
+C:\Users\2000209445\Desktop\FINTEL_UPDATE\gold_venv\Lib\site-packages\tzdata\zoneinfo\Asia\Hong_Kong
+C:\Users\2000209445\Desktop\FINTEL_UPDATE\gold_venv\Lib\site-packages\tzdata\zoneinfo\Asia\Hovd
+C:\Users\2000209445\Desktop\FINTEL_UPDATE\gold_venv\Lib\site-packages\tzdata\zoneinfo\Asia\Ho_Chi_Minh
+C:\Users\2000209445\Desktop\FINTEL_UPDATE\gold_venv\Lib\site-packages\tzdata\zoneinfo\Asia\Irkutsk
+C:\Users\2000209445\Desktop\FINTEL_UPDATE\gold_venv\Lib\site-packages\tzdata\zoneinfo\Asia\Istanbul
+C:\Users\2000209445\Desktop\FINTEL_UPDATE\gold_venv\Lib\site-packages\tzdata\zoneinfo\Asia\Jakarta
+C:\Users\2000209445\Desktop\FINTEL_UPDATE\gold_venv\Lib\site-packages\tzdata\zoneinfo\Asia\Jayapura
+C:\Users\2000209445\Desktop\FINTEL_UPDATE\gold_venv\Lib\site-packages\tzdata\zoneinfo\Asia\Jerusalem
+C:\Users\2000209445\Desktop\FINTEL_UPDATE\gold_venv\Lib\site-packages\tzdata\zoneinfo\Asia\Kabul
+C:\Users\2000209445\Desktop\FINTEL_UPDATE\gold_venv\Lib\site-packages\tzdata\zoneinfo\Asia\Kamchatka
+C:\Users\2000209445\Desktop\FINTEL_UPDATE\gold_venv\Lib\site-packages\tzdata\zoneinfo\Asia\Karachi
+C:\Users\2000209445\Desktop\FINTEL_UPDATE\gold_venv\Lib\site-packages\tzdata\zoneinfo\Asia\Kashgar
+C:\Users\2000209445\Desktop\FINTEL_UPDATE\gold_venv\Lib\site-packages\tzdata\zoneinfo\Asia\Kathmandu
+C:\Users\2000209445\Desktop\FINTEL_UPDATE\gold_venv\Lib\site-packages\tzdata\zoneinfo\Asia\Katmandu
+C:\Users\2000209445\Desktop\FINTEL_UPDATE\gold_venv\Lib\site-packages\tzdata\zoneinfo\Asia\Khandyga
+C:\Users\2000209445\Desktop\FINTEL_UPDATE\gold_venv\Lib\site-packages\tzdata\zoneinfo\Asia\Kolkata
+C:\Users\2000209445\Desktop\FINTEL_UPDATE\gold_venv\Lib\site-packages\tzdata\zoneinfo\Asia\Krasnoyarsk
+C:\Users\2000209445\Desktop\FINTEL_UPDATE\gold_venv\Lib\site-packages\tzdata\zoneinfo\Asia\Kuala_Lumpur
+C:\Users\2000209445\Desktop\FINTEL_UPDATE\gold_venv\Lib\site-packages\tzdata\zoneinfo\Asia\Kuching
+C:\Users\2000209445\Desktop\FINTEL_UPDATE\gold_venv\Lib\site-packages\tzdata\zoneinfo\Asia\Kuwait
+C:\Users\2000209445\Desktop\FINTEL_UPDATE\gold_venv\Lib\site-packages\tzdata\zoneinfo\Asia\Macao
+C:\Users\2000209445\Desktop\FINTEL_UPDATE\gold_venv\Lib\site-packages\tzdata\zoneinfo\Asia\Macau
+C:\Users\2000209445\Desktop\FINTEL_UPDATE\gold_venv\Lib\site-packages\tzdata\zoneinfo\Asia\Magadan
+C:\Users\2000209445\Desktop\FINTEL_UPDATE\gold_venv\Lib\site-packages\tzdata\zoneinfo\Asia\Makassar
+C:\Users\2000209445\Desktop\FINTEL_UPDATE\gold_venv\Lib\site-packages\tzdata\zoneinfo\Asia\Manila
+C:\Users\2000209445\Desktop\FINTEL_UPDATE\gold_venv\Lib\site-packages\tzdata\zoneinfo\Asia\Muscat
+C:\Users\2000209445\Desktop\FINTEL_UPDATE\gold_venv\Lib\site-packages\tzdata\zoneinfo\Asia\Nicosia
+C:\Users\2000209445\Desktop\FINTEL_UPDATE\gold_venv\Lib\site-packages\tzdata\zoneinfo\Asia\Novokuznetsk
+C:\Users\2000209445\Desktop\FINTEL_UPDATE\gold_venv\Lib\site-packages\tzdata\zoneinfo\Asia\Novosibirsk
+C:\Users\2000209445\Desktop\FINTEL_UPDATE\gold_venv\Lib\site-packages\tzdata\zoneinfo\Asia\Omsk
+C:\Users\2000209445\Desktop\FINTEL_UPDATE\gold_venv\Lib\site-packages\tzdata\zoneinfo\Asia\Oral
+C:\Users\2000209445\Desktop\FINTEL_UPDATE\gold_venv\Lib\site-packages\tzdata\zoneinfo\Asia\Phnom_Penh
+C:\Users\2000209445\Desktop\FINTEL_UPDATE\gold_venv\Lib\site-packages\tzdata\zoneinfo\Asia\Pontianak
+C:\Users\2000209445\Desktop\FINTEL_UPDATE\gold_venv\Lib\site-packages\tzdata\zoneinfo\Asia\Pyongyang
+C:\Users\2000209445\Desktop\FINTEL_UPDATE\gold_venv\Lib\site-packages\tzdata\zoneinfo\Asia\Qatar
+C:\Users\2000209445\Desktop\FINTEL_UPDATE\gold_venv\Lib\site-packages\tzdata\zoneinfo\Asia\Qostanay
+C:\Users\2000209445\Desktop\FINTEL_UPDATE\gold_venv\Lib\site-packages\tzdata\zoneinfo\Asia\Qyzylorda
+C:\Users\2000209445\Desktop\FINTEL_UPDATE\gold_venv\Lib\site-packages\tzdata\zoneinfo\Asia\Rangoon
+C:\Users\2000209445\Desktop\FINTEL_UPDATE\gold_venv\Lib\site-packages\tzdata\zoneinfo\Asia\Riyadh
+C:\Users\2000209445\Desktop\FINTEL_UPDATE\gold_venv\Lib\site-packages\tzdata\zoneinfo\Asia\Saigon
+C:\Users\2000209445\Desktop\FINTEL_UPDATE\gold_venv\Lib\site-packages\tzdata\zoneinfo\Asia\Sakhalin
+C:\Users\2000209445\Desktop\FINTEL_UPDATE\gold_venv\Lib\site-packages\tzdata\zoneinfo\Asia\Samarkand
+C:\Users\2000209445\Desktop\FINTEL_UPDATE\gold_venv\Lib\site-packages\tzdata\zoneinfo\Asia\Seoul
+C:\Users\2000209445\Desktop\FINTEL_UPDATE\gold_venv\Lib\site-packages\tzdata\zoneinfo\Asia\Shanghai
+C:\Users\2000209445\Desktop\FINTEL_UPDATE\gold_venv\Lib\site-packages\tzdata\zoneinfo\Asia\Singapore
+C:\Users\2000209445\Desktop\FINTEL_UPDATE\gold_venv\Lib\site-packages\tzdata\zoneinfo\Asia\Srednekolymsk
+C:\Users\2000209445\Desktop\FINTEL_UPDATE\gold_venv\Lib\site-packages\tzdata\zoneinfo\Asia\Taipei
+C:\Users\2000209445\Desktop\FINTEL_UPDATE\gold_venv\Lib\site-packages\tzdata\zoneinfo\Asia\Tashkent
+C:\Users\2000209445\Desktop\FINTEL_UPDATE\gold_venv\Lib\site-packages\tzdata\zoneinfo\Asia\Tbilisi
+C:\Users\2000209445\Desktop\FINTEL_UPDATE\gold_venv\Lib\site-packages\tzdata\zoneinfo\Asia\Tehran
+C:\Users\2000209445\Desktop\FINTEL_UPDATE\gold_venv\Lib\site-packages\tzdata\zoneinfo\Asia\Tel_Aviv
+C:\Users\2000209445\Desktop\FINTEL_UPDATE\gold_venv\Lib\site-packages\tzdata\zoneinfo\Asia\Thimbu
+C:\Users\2000209445\Desktop\FINTEL_UPDATE\gold_venv\Lib\site-packages\tzdata\zoneinfo\Asia\Thimphu
+C:\Users\2000209445\Desktop\FINTEL_UPDATE\gold_venv\Lib\site-packages\tzdata\zoneinfo\Asia\Tokyo
+C:\Users\2000209445\Desktop\FINTEL_UPDATE\gold_venv\Lib\site-packages\tzdata\zoneinfo\Asia\Tomsk
+C:\Users\2000209445\Desktop\FINTEL_UPDATE\gold_venv\Lib\site-packages\tzdata\zoneinfo\Asia\Ujung_Pandang
+C:\Users\2000209445\Desktop\FINTEL_UPDATE\gold_venv\Lib\site-packages\tzdata\zoneinfo\Asia\Ulaanbaatar
+C:\Users\2000209445\Desktop\FINTEL_UPDATE\gold_venv\Lib\site-packages\tzdata\zoneinfo\Asia\Ulan_Bator
+C:\Users\2000209445\Desktop\FINTEL_UPDATE\gold_venv\Lib\site-packages\tzdata\zoneinfo\Asia\Urumqi
+C:\Users\2000209445\Desktop\FINTEL_UPDATE\gold_venv\Lib\site-packages\tzdata\zoneinfo\Asia\Ust-Nera
+C:\Users\2000209445\Desktop\FINTEL_UPDATE\gold_venv\Lib\site-packages\tzdata\zoneinfo\Asia\Vientiane
+C:\Users\2000209445\Desktop\FINTEL_UPDATE\gold_venv\Lib\site-packages\tzdata\zoneinfo\Asia\Vladivostok
+C:\Users\2000209445\Desktop\FINTEL_UPDATE\gold_venv\Lib\site-packages\tzdata\zoneinfo\Asia\Yakutsk
+C:\Users\2000209445\Desktop\FINTEL_UPDATE\gold_venv\Lib\site-packages\tzdata\zoneinfo\Asia\Yangon
+C:\Users\2000209445\Desktop\FINTEL_UPDATE\gold_venv\Lib\site-packages\tzdata\zoneinfo\Asia\Yekaterinburg
+C:\Users\2000209445\Desktop\FINTEL_UPDATE\gold_venv\Lib\site-packages\tzdata\zoneinfo\Asia\Yerevan
+C:\Users\2000209445\Desktop\FINTEL_UPDATE\gold_venv\Lib\site-packages\tzdata\zoneinfo\Asia\__init__.py
+C:\Users\2000209445\Desktop\FINTEL_UPDATE\gold_venv\Lib\site-packages\tzdata\zoneinfo\Asia\__pycache__
+C:\Users\2000209445\Desktop\FINTEL_UPDATE\gold_venv\Lib\site-packages\tzdata\zoneinfo\Asia\__pycache__\__init__.cpython-312.pyc
+C:\Users\2000209445\Desktop\FINTEL_UPDATE\gold_venv\Lib\site-packages\tzdata\zoneinfo\Atlantic\Azores
+C:\Users\2000209445\Desktop\FINTEL_UPDATE\gold_venv\Lib\site-packages\tzdata\zoneinfo\Atlantic\Bermuda
+C:\Users\2000209445\Desktop\FINTEL_UPDATE\gold_venv\Lib\site-packages\tzdata\zoneinfo\Atlantic\Canary
+C:\Users\2000209445\Desktop\FINTEL_UPDATE\gold_venv\Lib\site-packages\tzdata\zoneinfo\Atlantic\Cape_Verde
+C:\Users\2000209445\Desktop\FINTEL_UPDATE\gold_venv\Lib\site-packages\tzdata\zoneinfo\Atlantic\Faeroe
+C:\Users\2000209445\Desktop\FINTEL_UPDATE\gold_venv\Lib\site-packages\tzdata\zoneinfo\Atlantic\Faroe
+C:\Users\2000209445\Desktop\FINTEL_UPDATE\gold_venv\Lib\site-packages\tzdata\zoneinfo\Atlantic\Jan_Mayen
+C:\Users\2000209445\Desktop\FINTEL_UPDATE\gold_venv\Lib\site-packages\tzdata\zoneinfo\Atlantic\Madeira
+C:\Users\2000209445\Desktop\FINTEL_UPDATE\gold_venv\Lib\site-packages\tzdata\zoneinfo\Atlantic\Reykjavik
+C:\Users\2000209445\Desktop\FINTEL_UPDATE\gold_venv\Lib\site-packages\tzdata\zoneinfo\Atlantic\South_Georgia
+C:\Users\2000209445\Desktop\FINTEL_UPDATE\gold_venv\Lib\site-packages\tzdata\zoneinfo\Atlantic\Stanley
+C:\Users\2000209445\Desktop\FINTEL_UPDATE\gold_venv\Lib\site-packages\tzdata\zoneinfo\Atlantic\St_Helena
+C:\Users\2000209445\Desktop\FINTEL_UPDATE\gold_venv\Lib\site-packages\tzdata\zoneinfo\Atlantic\__init__.py
+C:\Users\2000209445\Desktop\FINTEL_UPDATE\gold_venv\Lib\site-packages\tzdata\zoneinfo\Australia\ACT
+C:\Users\2000209445\Desktop\FINTEL_UPDATE\gold_venv\Lib\site-packages\tzdata\zoneinfo\Australia\Adelaide
+C:\Users\2000209445\Desktop\FINTEL_UPDATE\gold_venv\Lib\site-packages\tzdata\zoneinfo\Australia\Brisbane
+C:\Users\2000209445\Desktop\FINTEL_UPDATE\gold_venv\Lib\site-packages\tzdata\zoneinfo\Australia\Broken_Hill
+C:\Users\2000209445\Desktop\FINTEL_UPDATE\gold_venv\Lib\site-packages\tzdata\zoneinfo\Australia\Canberra
+C:\Users\2000209445\Desktop\FINTEL_UPDATE\gold_venv\Lib\site-packages\tzdata\zoneinfo\Australia\Currie
+C:\Users\2000209445\Desktop\FINTEL_UPDATE\gold_venv\Lib\site-packages\tzdata\zoneinfo\Australia\Darwin
+C:\Users\2000209445\Desktop\FINTEL_UPDATE\gold_venv\Lib\site-packages\tzdata\zoneinfo\Australia\Eucla
+C:\Users\2000209445\Desktop\FINTEL_UPDATE\gold_venv\Lib\site-packages\tzdata\zoneinfo\Australia\Hobart
+C:\Users\2000209445\Desktop\FINTEL_UPDATE\gold_venv\Lib\site-packages\tzdata\zoneinfo\Australia\LHI
+C:\Users\2000209445\Desktop\FINTEL_UPDATE\gold_venv\Lib\site-packages\tzdata\zoneinfo\Australia\Lindeman
+C:\Users\2000209445\Desktop\FINTEL_UPDATE\gold_venv\Lib\site-packages\tzdata\zoneinfo\Australia\Lord_Howe
+C:\Users\2000209445\Desktop\FINTEL_UPDATE\gold_venv\Lib\site-packages\tzdata\zoneinfo\Australia\Melbourne
+C:\Users\2000209445\Desktop\FINTEL_UPDATE\gold_venv\Lib\site-packages\tzdata\zoneinfo\Australia\North
+C:\Users\2000209445\Desktop\FINTEL_UPDATE\gold_venv\Lib\site-packages\tzdata\zoneinfo\Australia\NSW
+C:\Users\2000209445\Desktop\FINTEL_UPDATE\gold_venv\Lib\site-packages\tzdata\zoneinfo\Australia\Perth
+C:\Users\2000209445\Desktop\FINTEL_UPDATE\gold_venv\Lib\site-packages\tzdata\zoneinfo\Australia\Queensland
+C:\Users\2000209445\Desktop\FINTEL_UPDATE\gold_venv\Lib\site-packages\tzdata\zoneinfo\Australia\South
+C:\Users\2000209445\Desktop\FINTEL_UPDATE\gold_venv\Lib\site-packages\tzdata\zoneinfo\Australia\Sydney
+C:\Users\2000209445\Desktop\FINTEL_UPDATE\gold_venv\Lib\site-packages\tzdata\zoneinfo\Australia\Tasmania
+C:\Users\2000209445\Desktop\FINTEL_UPDATE\gold_venv\Lib\site-packages\tzdata\zoneinfo\Australia\Victoria
+C:\Users\2000209445\Desktop\FINTEL_UPDATE\gold_venv\Lib\site-packages\tzdata\zoneinfo\Australia\West
+C:\Users\2000209445\Desktop\FINTEL_UPDATE\gold_venv\Lib\site-packages\tzdata\zoneinfo\Australia\Yancowinna
+C:\Users\2000209445\Desktop\FINTEL_UPDATE\gold_venv\Lib\site-packages\tzdata\zoneinfo\Australia\__init__.py
+C:\Users\2000209445\Desktop\FINTEL_UPDATE\gold_venv\Lib\site-packages\tzdata\zoneinfo\Brazil\Acre
+C:\Users\2000209445\Desktop\FINTEL_UPDATE\gold_venv\Lib\site-packages\tzdata\zoneinfo\Brazil\DeNoronha
+C:\Users\2000209445\Desktop\FINTEL_UPDATE\gold_venv\Lib\site-packages\tzdata\zoneinfo\Brazil\East
+C:\Users\2000209445\Desktop\FINTEL_UPDATE\gold_venv\Lib\site-packages\tzdata\zoneinfo\Brazil\West
+C:\Users\2000209445\Desktop\FINTEL_UPDATE\gold_venv\Lib\site-packages\tzdata\zoneinfo\Brazil\__init__.py
+C:\Users\2000209445\Desktop\FINTEL_UPDATE\gold_venv\Lib\site-packages\tzdata\zoneinfo\Canada\Atlantic
+C:\Users\2000209445\Desktop\FINTEL_UPDATE\gold_venv\Lib\site-packages\tzdata\zoneinfo\Canada\Central
+C:\Users\2000209445\Desktop\FINTEL_UPDATE\gold_venv\Lib\site-packages\tzdata\zoneinfo\Canada\Eastern
+C:\Users\2000209445\Desktop\FINTEL_UPDATE\gold_venv\Lib\site-packages\tzdata\zoneinfo\Canada\Mountain
+C:\Users\2000209445\Desktop\FINTEL_UPDATE\gold_venv\Lib\site-packages\tzdata\zoneinfo\Canada\Newfoundland
+C:\Users\2000209445\Desktop\FINTEL_UPDATE\gold_venv\Lib\site-packages\tzdata\zoneinfo\Canada\Pacific
+C:\Users\2000209445\Desktop\FINTEL_UPDATE\gold_venv\Lib\site-packages\tzdata\zoneinfo\Canada\Saskatchewan
+C:\Users\2000209445\Desktop\FINTEL_UPDATE\gold_venv\Lib\site-packages\tzdata\zoneinfo\Canada\Yukon
+C:\Users\2000209445\Desktop\FINTEL_UPDATE\gold_venv\Lib\site-packages\tzdata\zoneinfo\Canada\__init__.py
+C:\Users\2000209445\Desktop\FINTEL_UPDATE\gold_venv\Lib\site-packages\tzdata\zoneinfo\Chile\Continental
+C:\Users\2000209445\Desktop\FINTEL_UPDATE\gold_venv\Lib\site-packages\tzdata\zoneinfo\Chile\EasterIsland
+C:\Users\2000209445\Desktop\FINTEL_UPDATE\gold_venv\Lib\site-packages\tzdata\zoneinfo\Chile\__init__.py
+C:\Users\2000209445\Desktop\FINTEL_UPDATE\gold_venv\Lib\site-packages\tzdata\zoneinfo\Etc\GMT
+C:\Users\2000209445\Desktop\FINTEL_UPDATE\gold_venv\Lib\site-packages\tzdata\zoneinfo\Etc\GMT+0
+C:\Users\2000209445\Desktop\FINTEL_UPDATE\gold_venv\Lib\site-packages\tzdata\zoneinfo\Etc\GMT+1
+C:\Users\2000209445\Desktop\FINTEL_UPDATE\gold_venv\Lib\site-packages\tzdata\zoneinfo\Etc\GMT+10
+C:\Users\2000209445\Desktop\FINTEL_UPDATE\gold_venv\Lib\site-packages\tzdata\zoneinfo\Etc\GMT+11
+C:\Users\2000209445\Desktop\FINTEL_UPDATE\gold_venv\Lib\site-packages\tzdata\zoneinfo\Etc\GMT+12
+C:\Users\2000209445\Desktop\FINTEL_UPDATE\gold_venv\Lib\site-packages\tzdata\zoneinfo\Etc\GMT+2
+C:\Users\2000209445\Desktop\FINTEL_UPDATE\gold_venv\Lib\site-packages\tzdata\zoneinfo\Etc\GMT+3
+C:\Users\2000209445\Desktop\FINTEL_UPDATE\gold_venv\Lib\site-packages\tzdata\zoneinfo\Etc\GMT+4
+C:\Users\2000209445\Desktop\FINTEL_UPDATE\gold_venv\Lib\site-packages\tzdata\zoneinfo\Etc\GMT+5
+C:\Users\2000209445\Desktop\FINTEL_UPDATE\gold_venv\Lib\site-packages\tzdata\zoneinfo\Etc\GMT+6
+C:\Users\2000209445\Desktop\FINTEL_UPDATE\gold_venv\Lib\site-packages\tzdata\zoneinfo\Etc\GMT+7
+C:\Users\2000209445\Desktop\FINTEL_UPDATE\gold_venv\Lib\site-packages\tzdata\zoneinfo\Etc\GMT+8
+C:\Users\2000209445\Desktop\FINTEL_UPDATE\gold_venv\Lib\site-packages\tzdata\zoneinfo\Etc\GMT+9
+C:\Users\2000209445\Desktop\FINTEL_UPDATE\gold_venv\Lib\site-packages\tzdata\zoneinfo\Etc\GMT-0
+C:\Users\2000209445\Desktop\FINTEL_UPDATE\gold_venv\Lib\site-packages\tzdata\zoneinfo\Etc\GMT-1
+C:\Users\2000209445\Desktop\FINTEL_UPDATE\gold_venv\Lib\site-packages\tzdata\zoneinfo\Etc\GMT-10
+C:\Users\2000209445\Desktop\FINTEL_UPDATE\gold_venv\Lib\site-packages\tzdata\zoneinfo\Etc\GMT-11
+C:\Users\2000209445\Desktop\FINTEL_UPDATE\gold_venv\Lib\site-packages\tzdata\zoneinfo\Etc\GMT-12
+C:\Users\2000209445\Desktop\FINTEL_UPDATE\gold_venv\Lib\site-packages\tzdata\zoneinfo\Etc\GMT-13
+C:\Users\2000209445\Desktop\FINTEL_UPDATE\gold_venv\Lib\site-packages\tzdata\zoneinfo\Etc\GMT-14
+C:\Users\2000209445\Desktop\FINTEL_UPDATE\gold_venv\Lib\site-packages\tzdata\zoneinfo\Etc\GMT-2
+C:\Users\2000209445\Desktop\FINTEL_UPDATE\gold_venv\Lib\site-packages\tzdata\zoneinfo\Etc\GMT-3
+C:\Users\2000209445\Desktop\FINTEL_UPDATE\gold_venv\Lib\site-packages\tzdata\zoneinfo\Etc\GMT-4
+C:\Users\2000209445\Desktop\FINTEL_UPDATE\gold_venv\Lib\site-packages\tzdata\zoneinfo\Etc\GMT-5
+C:\Users\2000209445\Desktop\FINTEL_UPDATE\gold_venv\Lib\site-packages\tzdata\zoneinfo\Etc\GMT-6
+C:\Users\2000209445\Desktop\FINTEL_UPDATE\gold_venv\Lib\site-packages\tzdata\zoneinfo\Etc\GMT-7
+C:\Users\2000209445\Desktop\FINTEL_UPDATE\gold_venv\Lib\site-packages\tzdata\zoneinfo\Etc\GMT-8
+C:\Users\2000209445\Desktop\FINTEL_UPDATE\gold_venv\Lib\site-packages\tzdata\zoneinfo\Etc\GMT-9
+C:\Users\2000209445\Desktop\FINTEL_UPDATE\gold_venv\Lib\site-packages\tzdata\zoneinfo\Etc\GMT0
+C:\Users\2000209445\Desktop\FINTEL_UPDATE\gold_venv\Lib\site-packages\tzdata\zoneinfo\Etc\Greenwich
+C:\Users\2000209445\Desktop\FINTEL_UPDATE\gold_venv\Lib\site-packages\tzdata\zoneinfo\Etc\UCT
+C:\Users\2000209445\Desktop\FINTEL_UPDATE\gold_venv\Lib\site-packages\tzdata\zoneinfo\Etc\Universal
+C:\Users\2000209445\Desktop\FINTEL_UPDATE\gold_venv\Lib\site-packages\tzdata\zoneinfo\Etc\UTC
+C:\Users\2000209445\Desktop\FINTEL_UPDATE\gold_venv\Lib\site-packages\tzdata\zoneinfo\Etc\Zulu
+C:\Users\2000209445\Desktop\FINTEL_UPDATE\gold_venv\Lib\site-packages\tzdata\zoneinfo\Etc\__init__.py
+C:\Users\2000209445\Desktop\FINTEL_UPDATE\gold_venv\Lib\site-packages\tzdata\zoneinfo\Europe\Amsterdam
+C:\Users\2000209445\Desktop\FINTEL_UPDATE\gold_venv\Lib\site-packages\tzdata\zoneinfo\Europe\Andorra
+C:\Users\2000209445\Desktop\FINTEL_UPDATE\gold_venv\Lib\site-packages\tzdata\zoneinfo\Europe\Astrakhan
+C:\Users\2000209445\Desktop\FINTEL_UPDATE\gold_venv\Lib\site-packages\tzdata\zoneinfo\Europe\Athens
+C:\Users\2000209445\Desktop\FINTEL_UPDATE\gold_venv\Lib\site-packages\tzdata\zoneinfo\Europe\Belfast
+C:\Users\2000209445\Desktop\FINTEL_UPDATE\gold_venv\Lib\site-packages\tzdata\zoneinfo\Europe\Belgrade
+C:\Users\2000209445\Desktop\FINTEL_UPDATE\gold_venv\Lib\site-packages\tzdata\zoneinfo\Europe\Berlin
+C:\Users\2000209445\Desktop\FINTEL_UPDATE\gold_venv\Lib\site-packages\tzdata\zoneinfo\Europe\Bratislava
+C:\Users\2000209445\Desktop\FINTEL_UPDATE\gold_venv\Lib\site-packages\tzdata\zoneinfo\Europe\Brussels
+C:\Users\2000209445\Desktop\FINTEL_UPDATE\gold_venv\Lib\site-packages\tzdata\zoneinfo\Europe\Bucharest
+C:\Users\2000209445\Desktop\FINTEL_UPDATE\gold_venv\Lib\site-packages\tzdata\zoneinfo\Europe\Budapest
+C:\Users\2000209445\Desktop\FINTEL_UPDATE\gold_venv\Lib\site-packages\tzdata\zoneinfo\Europe\Busingen
+C:\Users\2000209445\Desktop\FINTEL_UPDATE\gold_venv\Lib\site-packages\tzdata\zoneinfo\Europe\Chisinau
+C:\Users\2000209445\Desktop\FINTEL_UPDATE\gold_venv\Lib\site-packages\tzdata\zoneinfo\Europe\Copenhagen
+C:\Users\2000209445\Desktop\FINTEL_UPDATE\gold_venv\Lib\site-packages\tzdata\zoneinfo\Europe\Dublin
+C:\Users\2000209445\Desktop\FINTEL_UPDATE\gold_venv\Lib\site-packages\tzdata\zoneinfo\Europe\Gibraltar
+C:\Users\2000209445\Desktop\FINTEL_UPDATE\gold_venv\Lib\site-packages\tzdata\zoneinfo\Europe\Guernsey
+C:\Users\2000209445\Desktop\FINTEL_UPDATE\gold_venv\Lib\site-packages\tzdata\zoneinfo\Europe\Helsinki
+C:\Users\2000209445\Desktop\FINTEL_UPDATE\gold_venv\Lib\site-packages\tzdata\zoneinfo\Europe\Isle_of_Man
+C:\Users\2000209445\Desktop\FINTEL_UPDATE\gold_venv\Lib\site-packages\tzdata\zoneinfo\Europe\Istanbul
+C:\Users\2000209445\Desktop\FINTEL_UPDATE\gold_venv\Lib\site-packages\tzdata\zoneinfo\Europe\Jersey
+C:\Users\2000209445\Desktop\FINTEL_UPDATE\gold_venv\Lib\site-packages\tzdata\zoneinfo\Europe\Kaliningrad
+C:\Users\2000209445\Desktop\FINTEL_UPDATE\gold_venv\Lib\site-packages\tzdata\zoneinfo\Europe\Kiev
+C:\Users\2000209445\Desktop\FINTEL_UPDATE\gold_venv\Lib\site-packages\tzdata\zoneinfo\Europe\Kirov
+C:\Users\2000209445\Desktop\FINTEL_UPDATE\gold_venv\Lib\site-packages\tzdata\zoneinfo\Europe\Kyiv
+C:\Users\2000209445\Desktop\FINTEL_UPDATE\gold_venv\Lib\site-packages\tzdata\zoneinfo\Europe\Lisbon
+C:\Users\2000209445\Desktop\FINTEL_UPDATE\gold_venv\Lib\site-packages\tzdata\zoneinfo\Europe\Ljubljana
+C:\Users\2000209445\Desktop\FINTEL_UPDATE\gold_venv\Lib\site-packages\tzdata\zoneinfo\Europe\London
+C:\Users\2000209445\Desktop\FINTEL_UPDATE\gold_venv\Lib\site-packages\tzdata\zoneinfo\Europe\Luxembourg
+C:\Users\2000209445\Desktop\FINTEL_UPDATE\gold_venv\Lib\site-packages\tzdata\zoneinfo\Europe\Madrid
+C:\Users\2000209445\Desktop\FINTEL_UPDATE\gold_venv\Lib\site-packages\tzdata\zoneinfo\Europe\Malta
+C:\Users\2000209445\Desktop\FINTEL_UPDATE\gold_venv\Lib\site-packages\tzdata\zoneinfo\Europe\Mariehamn
+C:\Users\2000209445\Desktop\FINTEL_UPDATE\gold_venv\Lib\site-packages\tzdata\zoneinfo\Europe\Minsk
+C:\Users\2000209445\Desktop\FINTEL_UPDATE\gold_venv\Lib\site-packages\tzdata\zoneinfo\Europe\Monaco
+C:\Users\2000209445\Desktop\FINTEL_UPDATE\gold_venv\Lib\site-packages\tzdata\zoneinfo\Europe\Moscow
+C:\Users\2000209445\Desktop\FINTEL_UPDATE\gold_venv\Lib\site-packages\tzdata\zoneinfo\Europe\Nicosia
+C:\Users\2000209445\Desktop\FINTEL_UPDATE\gold_venv\Lib\site-packages\tzdata\zoneinfo\Europe\Oslo
+C:\Users\2000209445\Desktop\FINTEL_UPDATE\gold_venv\Lib\site-packages\tzdata\zoneinfo\Europe\Paris
+C:\Users\2000209445\Desktop\FINTEL_UPDATE\gold_venv\Lib\site-packages\tzdata\zoneinfo\Europe\Podgorica
+C:\Users\2000209445\Desktop\FINTEL_UPDATE\gold_venv\Lib\site-packages\tzdata\zoneinfo\Europe\Prague
+C:\Users\2000209445\Desktop\FINTEL_UPDATE\gold_venv\Lib\site-packages\tzdata\zoneinfo\Europe\Riga
+C:\Users\2000209445\Desktop\FINTEL_UPDATE\gold_venv\Lib\site-packages\tzdata\zoneinfo\Europe\Rome
+C:\Users\2000209445\Desktop\FINTEL_UPDATE\gold_venv\Lib\site-packages\tzdata\zoneinfo\Europe\Samara
+C:\Users\2000209445\Desktop\FINTEL_UPDATE\gold_venv\Lib\site-packages\tzdata\zoneinfo\Europe\San_Marino
+C:\Users\2000209445\Desktop\FINTEL_UPDATE\gold_venv\Lib\site-packages\tzdata\zoneinfo\Europe\Sarajevo
+C:\Users\2000209445\Desktop\FINTEL_UPDATE\gold_venv\Lib\site-packages\tzdata\zoneinfo\Europe\Saratov
+C:\Users\2000209445\Desktop\FINTEL_UPDATE\gold_venv\Lib\site-packages\tzdata\zoneinfo\Europe\Simferopol
+C:\Users\2000209445\Desktop\FINTEL_UPDATE\gold_venv\Lib\site-packages\tzdata\zoneinfo\Europe\Skopje
+C:\Users\2000209445\Desktop\FINTEL_UPDATE\gold_venv\Lib\site-packages\tzdata\zoneinfo\Europe\Sofia
+C:\Users\2000209445\Desktop\FINTEL_UPDATE\gold_venv\Lib\site-packages\tzdata\zoneinfo\Europe\Stockholm
+C:\Users\2000209445\Desktop\FINTEL_UPDATE\gold_venv\Lib\site-packages\tzdata\zoneinfo\Europe\Tallinn
+C:\Users\2000209445\Desktop\FINTEL_UPDATE\gold_venv\Lib\site-packages\tzdata\zoneinfo\Europe\Tirane
+C:\Users\2000209445\Desktop\FINTEL_UPDATE\gold_venv\Lib\site-packages\tzdata\zoneinfo\Europe\Tiraspol
+C:\Users\2000209445\Desktop\FINTEL_UPDATE\gold_venv\Lib\site-packages\tzdata\zoneinfo\Europe\Ulyanovsk
+C:\Users\2000209445\Desktop\FINTEL_UPDATE\gold_venv\Lib\site-packages\tzdata\zoneinfo\Europe\Uzhgorod
+C:\Users\2000209445\Desktop\FINTEL_UPDATE\gold_venv\Lib\site-packages\tzdata\zoneinfo\Europe\Vaduz
+C:\Users\2000209445\Desktop\FINTEL_UPDATE\gold_venv\Lib\site-packages\tzdata\zoneinfo\Europe\Vatican
+C:\Users\2000209445\Desktop\FINTEL_UPDATE\gold_venv\Lib\site-packages\tzdata\zoneinfo\Europe\Vienna
+C:\Users\2000209445\Desktop\FINTEL_UPDATE\gold_venv\Lib\site-packages\tzdata\zoneinfo\Europe\Vilnius
+C:\Users\2000209445\Desktop\FINTEL_UPDATE\gold_venv\Lib\site-packages\tzdata\zoneinfo\Europe\Volgograd
+C:\Users\2000209445\Desktop\FINTEL_UPDATE\gold_venv\Lib\site-packages\tzdata\zoneinfo\Europe\Warsaw
+C:\Users\2000209445\Desktop\FINTEL_UPDATE\gold_venv\Lib\site-packages\tzdata\zoneinfo\Europe\Zagreb
+C:\Users\2000209445\Desktop\FINTEL_UPDATE\gold_venv\Lib\site-packages\tzdata\zoneinfo\Europe\Zaporozhye
+C:\Users\2000209445\Desktop\FINTEL_UPDATE\gold_venv\Lib\site-packages\tzdata\zoneinfo\Europe\Zurich
+C:\Users\2000209445\Desktop\FINTEL_UPDATE\gold_venv\Lib\site-packages\tzdata\zoneinfo\Europe\__init__.py
+C:\Users\2000209445\Desktop\FINTEL_UPDATE\gold_venv\Lib\site-packages\tzdata\zoneinfo\Indian\Antananarivo
+C:\Users\2000209445\Desktop\FINTEL_UPDATE\gold_venv\Lib\site-packages\tzdata\zoneinfo\Indian\Chagos
+C:\Users\2000209445\Desktop\FINTEL_UPDATE\gold_venv\Lib\site-packages\tzdata\zoneinfo\Indian\Christmas
+C:\Users\2000209445\Desktop\FINTEL_UPDATE\gold_venv\Lib\site-packages\tzdata\zoneinfo\Indian\Cocos
+C:\Users\2000209445\Desktop\FINTEL_UPDATE\gold_venv\Lib\site-packages\tzdata\zoneinfo\Indian\Comoro
+C:\Users\2000209445\Desktop\FINTEL_UPDATE\gold_venv\Lib\site-packages\tzdata\zoneinfo\Indian\Kerguelen
+C:\Users\2000209445\Desktop\FINTEL_UPDATE\gold_venv\Lib\site-packages\tzdata\zoneinfo\Indian\Mahe
+C:\Users\2000209445\Desktop\FINTEL_UPDATE\gold_venv\Lib\site-packages\tzdata\zoneinfo\Indian\Maldives
+C:\Users\2000209445\Desktop\FINTEL_UPDATE\gold_venv\Lib\site-packages\tzdata\zoneinfo\Indian\Mauritius
+C:\Users\2000209445\Desktop\FINTEL_UPDATE\gold_venv\Lib\site-packages\tzdata\zoneinfo\Indian\Mayotte
+C:\Users\2000209445\Desktop\FINTEL_UPDATE\gold_venv\Lib\site-packages\tzdata\zoneinfo\Indian\Reunion
+C:\Users\2000209445\Desktop\FINTEL_UPDATE\gold_venv\Lib\site-packages\tzdata\zoneinfo\Indian\__init__.py
+C:\Users\2000209445\Desktop\FINTEL_UPDATE\gold_venv\Lib\site-packages\tzdata\zoneinfo\Mexico\BajaNorte
+C:\Users\2000209445\Desktop\FINTEL_UPDATE\gold_venv\Lib\site-packages\tzdata\zoneinfo\Mexico\BajaSur
+C:\Users\2000209445\Desktop\FINTEL_UPDATE\gold_venv\Lib\site-packages\tzdata\zoneinfo\Mexico\General
+C:\Users\2000209445\Desktop\FINTEL_UPDATE\gold_venv\Lib\site-packages\tzdata\zoneinfo\Mexico\__init__.py
+C:\Users\2000209445\Desktop\FINTEL_UPDATE\gold_venv\Lib\site-packages\tzdata\zoneinfo\Pacific\Apia
+C:\Users\2000209445\Desktop\FINTEL_UPDATE\gold_venv\Lib\site-packages\tzdata\zoneinfo\Pacific\Auckland
+C:\Users\2000209445\Desktop\FINTEL_UPDATE\gold_venv\Lib\site-packages\tzdata\zoneinfo\Pacific\Bougainville
+C:\Users\2000209445\Desktop\FINTEL_UPDATE\gold_venv\Lib\site-packages\tzdata\zoneinfo\Pacific\Chatham
+C:\Users\2000209445\Desktop\FINTEL_UPDATE\gold_venv\Lib\site-packages\tzdata\zoneinfo\Pacific\Chuuk
+C:\Users\2000209445\Desktop\FINTEL_UPDATE\gold_venv\Lib\site-packages\tzdata\zoneinfo\Pacific\Easter
+C:\Users\2000209445\Desktop\FINTEL_UPDATE\gold_venv\Lib\site-packages\tzdata\zoneinfo\Pacific\Efate
+C:\Users\2000209445\Desktop\FINTEL_UPDATE\gold_venv\Lib\site-packages\tzdata\zoneinfo\Pacific\Enderbury
+C:\Users\2000209445\Desktop\FINTEL_UPDATE\gold_venv\Lib\site-packages\tzdata\zoneinfo\Pacific\Fakaofo
+C:\Users\2000209445\Desktop\FINTEL_UPDATE\gold_venv\Lib\site-packages\tzdata\zoneinfo\Pacific\Fiji
+C:\Users\2000209445\Desktop\FINTEL_UPDATE\gold_venv\Lib\site-packages\tzdata\zoneinfo\Pacific\Funafuti
+C:\Users\2000209445\Desktop\FINTEL_UPDATE\gold_venv\Lib\site-packages\tzdata\zoneinfo\Pacific\Galapagos
+C:\Users\2000209445\Desktop\FINTEL_UPDATE\gold_venv\Lib\site-packages\tzdata\zoneinfo\Pacific\Gambier
+C:\Users\2000209445\Desktop\FINTEL_UPDATE\gold_venv\Lib\site-packages\tzdata\zoneinfo\Pacific\Guadalcanal
+C:\Users\2000209445\Desktop\FINTEL_UPDATE\gold_venv\Lib\site-packages\tzdata\zoneinfo\Pacific\Guam
+C:\Users\2000209445\Desktop\FINTEL_UPDATE\gold_venv\Lib\site-packages\tzdata\zoneinfo\Pacific\Honolulu
+C:\Users\2000209445\Desktop\FINTEL_UPDATE\gold_venv\Lib\site-packages\tzdata\zoneinfo\Pacific\Johnston
+C:\Users\2000209445\Desktop\FINTEL_UPDATE\gold_venv\Lib\site-packages\tzdata\zoneinfo\Pacific\Kanton
+C:\Users\2000209445\Desktop\FINTEL_UPDATE\gold_venv\Lib\site-packages\tzdata\zoneinfo\Pacific\Kiritimati
+C:\Users\2000209445\Desktop\FINTEL_UPDATE\gold_venv\Lib\site-packages\tzdata\zoneinfo\Pacific\Kosrae
+C:\Users\2000209445\Desktop\FINTEL_UPDATE\gold_venv\Lib\site-packages\tzdata\zoneinfo\Pacific\Kwajalein
+C:\Users\2000209445\Desktop\FINTEL_UPDATE\gold_venv\Lib\site-packages\tzdata\zoneinfo\Pacific\Majuro
+C:\Users\2000209445\Desktop\FINTEL_UPDATE\gold_venv\Lib\site-packages\tzdata\zoneinfo\Pacific\Marquesas
+C:\Users\2000209445\Desktop\FINTEL_UPDATE\gold_venv\Lib\site-packages\tzdata\zoneinfo\Pacific\Midway
+C:\Users\2000209445\Desktop\FINTEL_UPDATE\gold_venv\Lib\site-packages\tzdata\zoneinfo\Pacific\Nauru
+C:\Users\2000209445\Desktop\FINTEL_UPDATE\gold_venv\Lib\site-packages\tzdata\zoneinfo\Pacific\Niue
+C:\Users\2000209445\Desktop\FINTEL_UPDATE\gold_venv\Lib\site-packages\tzdata\zoneinfo\Pacific\Norfolk
+C:\Users\2000209445\Desktop\FINTEL_UPDATE\gold_venv\Lib\site-packages\tzdata\zoneinfo\Pacific\Noumea
+C:\Users\2000209445\Desktop\FINTEL_UPDATE\gold_venv\Lib\site-packages\tzdata\zoneinfo\Pacific\Pago_Pago
+C:\Users\2000209445\Desktop\FINTEL_UPDATE\gold_venv\Lib\site-packages\tzdata\zoneinfo\Pacific\Palau
+C:\Users\2000209445\Desktop\FINTEL_UPDATE\gold_venv\Lib\site-packages\tzdata\zoneinfo\Pacific\Pitcairn
+C:\Users\2000209445\Desktop\FINTEL_UPDATE\gold_venv\Lib\site-packages\tzdata\zoneinfo\Pacific\Pohnpei
+C:\Users\2000209445\Desktop\FINTEL_UPDATE\gold_venv\Lib\site-packages\tzdata\zoneinfo\Pacific\Ponape
+C:\Users\2000209445\Desktop\FINTEL_UPDATE\gold_venv\Lib\site-packages\tzdata\zoneinfo\Pacific\Port_Moresby
+C:\Users\2000209445\Desktop\FINTEL_UPDATE\gold_venv\Lib\site-packages\tzdata\zoneinfo\Pacific\Rarotonga
+C:\Users\2000209445\Desktop\FINTEL_UPDATE\gold_venv\Lib\site-packages\tzdata\zoneinfo\Pacific\Saipan
+C:\Users\2000209445\Desktop\FINTEL_UPDATE\gold_venv\Lib\site-packages\tzdata\zoneinfo\Pacific\Samoa
+C:\Users\2000209445\Desktop\FINTEL_UPDATE\gold_venv\Lib\site-packages\tzdata\zoneinfo\Pacific\Tahiti
+C:\Users\2000209445\Desktop\FINTEL_UPDATE\gold_venv\Lib\site-packages\tzdata\zoneinfo\Pacific\Tarawa
+C:\Users\2000209445\Desktop\FINTEL_UPDATE\gold_venv\Lib\site-packages\tzdata\zoneinfo\Pacific\Tongatapu
+C:\Users\2000209445\Desktop\FINTEL_UPDATE\gold_venv\Lib\site-packages\tzdata\zoneinfo\Pacific\Truk
+C:\Users\2000209445\Desktop\FINTEL_UPDATE\gold_venv\Lib\site-packages\tzdata\zoneinfo\Pacific\Wake
+C:\Users\2000209445\Desktop\FINTEL_UPDATE\gold_venv\Lib\site-packages\tzdata\zoneinfo\Pacific\Wallis
+C:\Users\2000209445\Desktop\FINTEL_UPDATE\gold_venv\Lib\site-packages\tzdata\zoneinfo\Pacific\Yap
+C:\Users\2000209445\Desktop\FINTEL_UPDATE\gold_venv\Lib\site-packages\tzdata\zoneinfo\Pacific\__init__.py
+C:\Users\2000209445\Desktop\FINTEL_UPDATE\gold_venv\Lib\site-packages\tzdata\zoneinfo\US\Alaska
+C:\Users\2000209445\Desktop\FINTEL_UPDATE\gold_venv\Lib\site-packages\tzdata\zoneinfo\US\Aleutian
+C:\Users\2000209445\Desktop\FINTEL_UPDATE\gold_venv\Lib\site-packages\tzdata\zoneinfo\US\Arizona
+C:\Users\2000209445\Desktop\FINTEL_UPDATE\gold_venv\Lib\site-packages\tzdata\zoneinfo\US\Central
+C:\Users\2000209445\Desktop\FINTEL_UPDATE\gold_venv\Lib\site-packages\tzdata\zoneinfo\US\East-Indiana
+C:\Users\2000209445\Desktop\FINTEL_UPDATE\gold_venv\Lib\site-packages\tzdata\zoneinfo\US\Eastern
+C:\Users\2000209445\Desktop\FINTEL_UPDATE\gold_venv\Lib\site-packages\tzdata\zoneinfo\US\Hawaii
+C:\Users\2000209445\Desktop\FINTEL_UPDATE\gold_venv\Lib\site-packages\tzdata\zoneinfo\US\Indiana-Starke
+C:\Users\2000209445\Desktop\FINTEL_UPDATE\gold_venv\Lib\site-packages\tzdata\zoneinfo\US\Michigan
+C:\Users\2000209445\Desktop\FINTEL_UPDATE\gold_venv\Lib\site-packages\tzdata\zoneinfo\US\Mountain
+C:\Users\2000209445\Desktop\FINTEL_UPDATE\gold_venv\Lib\site-packages\tzdata\zoneinfo\US\Pacific
+C:\Users\2000209445\Desktop\FINTEL_UPDATE\gold_venv\Lib\site-packages\tzdata\zoneinfo\US\Samoa
+C:\Users\2000209445\Desktop\FINTEL_UPDATE\gold_venv\Lib\site-packages\tzdata\zoneinfo\US\__init__.py
+C:\Users\2000209445\Desktop\FINTEL_UPDATE\gold_venv\Lib\site-packages\tzdata\zoneinfo\__pycache__\__init__.cpython-312.pyc
+C:\Users\2000209445\Desktop\FINTEL_UPDATE\gold_venv\Lib\site-packages\tzdata\__pycache__\__init__.cpython-312.pyc
+C:\Users\2000209445\Desktop\FINTEL_UPDATE\gold_venv\Lib\site-packages\tzdata-2026.6.dist-info\INSTALLER
+C:\Users\2000209445\Desktop\FINTEL_UPDATE\gold_venv\Lib\site-packages\tzdata-2026.6.dist-info\licenses
+C:\Users\2000209445\Desktop\FINTEL_UPDATE\gold_venv\Lib\site-packages\tzdata-2026.6.dist-info\METADATA
+C:\Users\2000209445\Desktop\FINTEL_UPDATE\gold_venv\Lib\site-packages\tzdata-2026.6.dist-info\RECORD
+C:\Users\2000209445\Desktop\FINTEL_UPDATE\gold_venv\Lib\site-packages\tzdata-2026.6.dist-info\top_level.txt
+C:\Users\2000209445\Desktop\FINTEL_UPDATE\gold_venv\Lib\site-packages\tzdata-2026.6.dist-info\WHEEL
+C:\Users\2000209445\Desktop\FINTEL_UPDATE\gold_venv\Lib\site-packages\tzdata-2026.6.dist-info\licenses\LICENSE
+C:\Users\2000209445\Desktop\FINTEL_UPDATE\gold_venv\Lib\site-packages\tzdata-2026.6.dist-info\licenses\licenses
+C:\Users\2000209445\Desktop\FINTEL_UPDATE\gold_venv\Lib\site-packages\tzdata-2026.6.dist-info\licenses\licenses\LICENSE_APACHE
+C:\Users\2000209445\Desktop\FINTEL_UPDATE\gold_venv\Lib\site-packages\zipp\compat
+C:\Users\2000209445\Desktop\FINTEL_UPDATE\gold_venv\Lib\site-packages\zipp\glob.py
+C:\Users\2000209445\Desktop\FINTEL_UPDATE\gold_venv\Lib\site-packages\zipp\_functools.py
+C:\Users\2000209445\Desktop\FINTEL_UPDATE\gold_venv\Lib\site-packages\zipp\__init__.py
+C:\Users\2000209445\Desktop\FINTEL_UPDATE\gold_venv\Lib\site-packages\zipp\__pycache__
+C:\Users\2000209445\Desktop\FINTEL_UPDATE\gold_venv\Lib\site-packages\zipp\compat\overlay.py
+C:\Users\2000209445\Desktop\FINTEL_UPDATE\gold_venv\Lib\site-packages\zipp\compat\py310.py
+C:\Users\2000209445\Desktop\FINTEL_UPDATE\gold_venv\Lib\site-packages\zipp\compat\py313.py
+C:\Users\2000209445\Desktop\FINTEL_UPDATE\gold_venv\Lib\site-packages\zipp\compat\__init__.py
+C:\Users\2000209445\Desktop\FINTEL_UPDATE\gold_venv\Lib\site-packages\zipp\compat\__pycache__
+C:\Users\2000209445\Desktop\FINTEL_UPDATE\gold_venv\Lib\site-packages\zipp\compat\__pycache__\overlay.cpython-312.pyc
+C:\Users\2000209445\Desktop\FINTEL_UPDATE\gold_venv\Lib\site-packages\zipp\compat\__pycache__\py310.cpython-312.pyc
+C:\Users\2000209445\Desktop\FINTEL_UPDATE\gold_venv\Lib\site-packages\zipp\compat\__pycache__\py313.cpython-312.pyc
+C:\Users\2000209445\Desktop\FINTEL_UPDATE\gold_venv\Lib\site-packages\zipp\compat\__pycache__\__init__.cpython-312.pyc
+C:\Users\2000209445\Desktop\FINTEL_UPDATE\gold_venv\Lib\site-packages\zipp\__pycache__\glob.cpython-312.pyc
+C:\Users\2000209445\Desktop\FINTEL_UPDATE\gold_venv\Lib\site-packages\zipp\__pycache__\_functools.cpython-312.pyc
+C:\Users\2000209445\Desktop\FINTEL_UPDATE\gold_venv\Lib\site-packages\zipp\__pycache__\__init__.cpython-312.pyc
+C:\Users\2000209445\Desktop\FINTEL_UPDATE\gold_venv\Lib\site-packages\zipp-4.1.2.dist-info\INSTALLER
+C:\Users\2000209445\Desktop\FINTEL_UPDATE\gold_venv\Lib\site-packages\zipp-4.1.2.dist-info\licenses
+C:\Users\2000209445\Desktop\FINTEL_UPDATE\gold_venv\Lib\site-packages\zipp-4.1.2.dist-info\METADATA
+C:\Users\2000209445\Desktop\FINTEL_UPDATE\gold_venv\Lib\site-packages\zipp-4.1.2.dist-info\RECORD
+C:\Users\2000209445\Desktop\FINTEL_UPDATE\gold_venv\Lib\site-packages\zipp-4.1.2.dist-info\top_level.txt
+C:\Users\2000209445\Desktop\FINTEL_UPDATE\gold_venv\Lib\site-packages\zipp-4.1.2.dist-info\WHEEL
+C:\Users\2000209445\Desktop\FINTEL_UPDATE\gold_venv\Lib\site-packages\zipp-4.1.2.dist-info\licenses\LICENSE
+C:\Users\2000209445\Desktop\FINTEL_UPDATE\gold_venv\Scripts\activate
+C:\Users\2000209445\Desktop\FINTEL_UPDATE\gold_venv\Scripts\activate.bat
+C:\Users\2000209445\Desktop\FINTEL_UPDATE\gold_venv\Scripts\Activate.ps1
+C:\Users\2000209445\Desktop\FINTEL_UPDATE\gold_venv\Scripts\beeline
+C:\Users\2000209445\Desktop\FINTEL_UPDATE\gold_venv\Scripts\beeline.cmd
+C:\Users\2000209445\Desktop\FINTEL_UPDATE\gold_venv\Scripts\deactivate.bat
+C:\Users\2000209445\Desktop\FINTEL_UPDATE\gold_venv\Scripts\docker-image-tool.sh
+C:\Users\2000209445\Desktop\FINTEL_UPDATE\gold_venv\Scripts\dotenv.exe
+C:\Users\2000209445\Desktop\FINTEL_UPDATE\gold_venv\Scripts\f2py.exe
+C:\Users\2000209445\Desktop\FINTEL_UPDATE\gold_venv\Scripts\find-spark-home
+C:\Users\2000209445\Desktop\FINTEL_UPDATE\gold_venv\Scripts\find-spark-home.cmd
+C:\Users\2000209445\Desktop\FINTEL_UPDATE\gold_venv\Scripts\find_spark_home.py
+C:\Users\2000209445\Desktop\FINTEL_UPDATE\gold_venv\Scripts\load-spark-env.cmd
+C:\Users\2000209445\Desktop\FINTEL_UPDATE\gold_venv\Scripts\load-spark-env.sh
+C:\Users\2000209445\Desktop\FINTEL_UPDATE\gold_venv\Scripts\numpy-config.exe
+C:\Users\2000209445\Desktop\FINTEL_UPDATE\gold_venv\Scripts\pip.exe
+C:\Users\2000209445\Desktop\FINTEL_UPDATE\gold_venv\Scripts\pip3.12.exe
+C:\Users\2000209445\Desktop\FINTEL_UPDATE\gold_venv\Scripts\pip3.exe
+C:\Users\2000209445\Desktop\FINTEL_UPDATE\gold_venv\Scripts\pyspark
+C:\Users\2000209445\Desktop\FINTEL_UPDATE\gold_venv\Scripts\pyspark.cmd
+C:\Users\2000209445\Desktop\FINTEL_UPDATE\gold_venv\Scripts\pyspark2.cmd
+C:\Users\2000209445\Desktop\FINTEL_UPDATE\gold_venv\Scripts\python.exe
+C:\Users\2000209445\Desktop\FINTEL_UPDATE\gold_venv\Scripts\pythonw.exe
+C:\Users\2000209445\Desktop\FINTEL_UPDATE\gold_venv\Scripts\run-example
+C:\Users\2000209445\Desktop\FINTEL_UPDATE\gold_venv\Scripts\run-example.cmd
+C:\Users\2000209445\Desktop\FINTEL_UPDATE\gold_venv\Scripts\spark-class
+C:\Users\2000209445\Desktop\FINTEL_UPDATE\gold_venv\Scripts\spark-class.cmd
+C:\Users\2000209445\Desktop\FINTEL_UPDATE\gold_venv\Scripts\spark-class2.cmd
+C:\Users\2000209445\Desktop\FINTEL_UPDATE\gold_venv\Scripts\spark-connect-shell
+C:\Users\2000209445\Desktop\FINTEL_UPDATE\gold_venv\Scripts\spark-pipelines
+C:\Users\2000209445\Desktop\FINTEL_UPDATE\gold_venv\Scripts\spark-shell
+C:\Users\2000209445\Desktop\FINTEL_UPDATE\gold_venv\Scripts\spark-shell.cmd
+C:\Users\2000209445\Desktop\FINTEL_UPDATE\gold_venv\Scripts\spark-shell2.cmd
+C:\Users\2000209445\Desktop\FINTEL_UPDATE\gold_venv\Scripts\spark-sql
+C:\Users\2000209445\Desktop\FINTEL_UPDATE\gold_venv\Scripts\spark-sql.cmd
+C:\Users\2000209445\Desktop\FINTEL_UPDATE\gold_venv\Scripts\spark-sql2.cmd
+C:\Users\2000209445\Desktop\FINTEL_UPDATE\gold_venv\Scripts\spark-submit
+C:\Users\2000209445\Desktop\FINTEL_UPDATE\gold_venv\Scripts\spark-submit.cmd
+C:\Users\2000209445\Desktop\FINTEL_UPDATE\gold_venv\Scripts\spark-submit2.cmd
+C:\Users\2000209445\Desktop\FINTEL_UPDATE\gold_venv\Scripts\sparkR
+C:\Users\2000209445\Desktop\FINTEL_UPDATE\gold_venv\Scripts\sparkR.cmd
+C:\Users\2000209445\Desktop\FINTEL_UPDATE\gold_venv\Scripts\sparkR2.cmd
+C:\Users\2000209445\Desktop\FINTEL_UPDATE\gold_venv\share\py4j
+C:\Users\2000209445\Desktop\FINTEL_UPDATE\gold_venv\share\py4j\py4j0.10.9.9.jar
 
- Directory of C:\Users\2000209445\Desktop\FINTEL_UPDATE\gold
 
-23-11-2026  16:16    <DIR>          .
-23-11-2026  22:07    <DIR>          ..
-23-11-2026  01:46            17,714 gold_job.py
-23-11-2026  12:21            13,213 gold_job_v2.py
-23-11-2026  16:51            25,921 gold_job_v3.py
-23-11-2026  16:47    <DIR>          __pycache__
-               3 File(s)         56,848 bytes
-               3 Dir(s)  373,437,186,048 bytes free
 
-C:\Users\2000209445\Desktop\FINTEL_UPDATE>findstr /I "PG_POSTGRES GOLD_PATH SILVER_TICKS_PATH SILVER_NEWS_PATH" config\settings.py
+C:\Users\2000209445\Desktop\FINTEL_UPDATE>type config\settings.py
+
+"""Central settings for FinTel Gold integration."""
+
+import os
+from pathlib import Path
+
+BASE_DIR = Path(__file__).resolve().parent.parent
+
+try:
+    from dotenv import load_dotenv
+    load_dotenv(BASE_DIR / ".env")
+except ImportError:
+    pass
+
+
+def _env(name, default):
+    return os.getenv(name, str(default))
+
+
+# ---------------------------------------------------------
+# STORAGE
+# ---------------------------------------------------------
+
+DATA_DIR = Path(
+    _env("FINTEL_DATA_DIR", BASE_DIR / "data")
+).resolve()
+
+TABLE_FORMAT = _env("FINTEL_TABLE_FORMAT", "delta").lower()
+
+# Actual existing Silver output locations
 SILVER_TICKS_PATH = Path(
+    _env(
         "FINTEL_SILVER_TICKS_PATH",
+        BASE_DIR / "Market_ticker" / "silver" / "data" / "stock_silver"
+    )
+).resolve()
+
+SILVER_NEWS_BY_TICKER_PATH = Path(
+    _env(
+        "FINTEL_SILVER_NEWS_BY_TICKER_PATH",
+        BASE_DIR / "silver_news" / "data" / "silver" / "news_by_ticker"
+    )
+).resolve()
+
 SILVER_NEWS_PATH = (
+    BASE_DIR / "silver_news" / "data" / "silver" / "news"
+).resolve()
+
+SILVER_TICKS_QUARANTINE_PATH = (
+    BASE_DIR / "Market_ticker" / "silver" / "data" / "stock_quarantine"
+).resolve()
+
+# Explicit source formats
+SILVER_TICKS_FORMAT = "delta"
+SILVER_NEWS_FORMAT = "parquet"
+
+# Discover Parquet files inside batch_id folders
+SILVER_NEWS_RECURSIVE_LOOKUP = True
+
+# Gold output
 GOLD_PATH = DATA_DIR / "gold" / "sentiment_price"
+
+# Gold checkpoints and audit
+CHECKPOINT_DIR = DATA_DIR / "checkpoints"
+GOLD_CHECKPOINT_PATH = CHECKPOINT_DIR / "gold"
+
+AUDIT_DIR = DATA_DIR / "audit"
+LOG_DIR = BASE_DIR / "logs"
+RUN_DIR = DATA_DIR / "run"
+
+SPARK_LOCAL_DIR = Path(
+    _env("FINTEL_SPARK_LOCAL_DIR", DATA_DIR / "spark_tmp")
+)
+
+# Existing project model paths
+MODELS_DIR = BASE_DIR / "models"
+FINBERT_PATH = Path(
+    _env("FINTEL_FINBERT_PATH", MODELS_DIR / "finbert")
+)
+
+
+# ---------------------------------------------------------
+# KAFKA
+# ---------------------------------------------------------
+
+KAFKA_BOOTSTRAP_SERVERS = _env(
+    "KAFKA_BOOTSTRAP_SERVERS", "localhost:9092"
+)
+
+NEWS_TOPIC = _env("NEWS_TOPIC", "raw-news-events")
+STOCK_TOPIC = _env("STOCK_TOPIC", "stock-prices")
+
+TOPIC_PARTITIONS = int(
+    _env("FINTEL_TOPIC_PARTITIONS", "3")
+)
+
+
+# ---------------------------------------------------------
+# INGESTION SETTINGS (RETAINED)
+# ---------------------------------------------------------
+
+RSS_POLL_INTERVAL_SECONDS = int(
+    _env("RSS_POLL_INTERVAL_SECONDS", "900")
+)
+
+HTTP_TIMEOUT_SECONDS = int(
+    _env("HTTP_TIMEOUT_SECONDS", "20")
+)
+
+MAX_RETRIES = int(
+    _env("MAX_RETRIES", "3")
+)
+
+NEWS_STATE_DIR = DATA_DIR / "producer_state"
+DATABASE_PATH = NEWS_STATE_DIR / "seen_articles.db"
+BUFFER_DIR = NEWS_STATE_DIR / "buffer"
+
+NEWS_CHECKPOINT_PATH = NEWS_STATE_DIR / "news_checkpoint.json"
+LATEST_NEWS_PATH = NEWS_STATE_DIR / "latest_news.json"
+SEEN_ARTICLES_FILE = NEWS_STATE_DIR / "seen_articles.json"
+
+STOCK_POLL_SECONDS = float(
+    _env("FINTEL_STOCK_POLL_SECONDS", "900")
+)
+
+STOCK_PUBLISH_INTERVAL = float(
+    _env("FINTEL_STOCK_PUBLISH_INTERVAL", "0.1")
+)
+
+INDIANAPI_KEY = _env("INDIANAPI_KEY", "").strip()
+
+
+# ---------------------------------------------------------
+# SPARK CONFIGURATION
+# ---------------------------------------------------------
+
+SPARK_MASTER = _env("FINTEL_SPARK_MASTER", "local[4]")
+SPARK_DRIVER_MEMORY = _env("FINTEL_SPARK_DRIVER_MEMORY", "2g")
+
+SPARK_MASTER_NEWS = _env(
+    "FINTEL_SPARK_MASTER_NEWS", "local[2]"
+)
+
+SPARK_DRIVER_MEMORY_NEWS = _env(
+    "FINTEL_SPARK_DRIVER_MEMORY_NEWS", "1g"
+)
+
+KAFKA_HEAP_OPTS = _env(
+    "FINTEL_KAFKA_HEAP_OPTS", "-Xmx1G -Xms512M"
+)
+
+BRONZE_TRIGGER = _env(
+    "FINTEL_BRONZE_TRIGGER", "10 seconds"
+)
+
+SILVER_TRIGGER = _env(
+    "FINTEL_SILVER_TRIGGER", "5 seconds"
+)
+
+GOLD_TRIGGER = _env(
+    "FINTEL_GOLD_TRIGGER", "10 seconds"
+)
+
+MAX_OFFSETS_PER_TRIGGER = _env(
+    "FINTEL_MAX_OFFSETS_PER_TRIGGER", "10000"
+)
+
+SILVER_TICKS_SOURCE = _env(
+    "FINTEL_SILVER_TICKS_SOURCE", "bronze"
+).lower()
+
+SILVER_NEWS_LOOP_SECONDS = int(
+    _env("FINTEL_SILVER_NEWS_LOOP_SECONDS", "60")
+)
+
+
+# ---------------------------------------------------------
+# GOLD WINDOW CONFIGURATION
+# ---------------------------------------------------------
+
+WINDOW_DURATION = _env(
+    "FINTEL_WINDOW_DURATION", "5 minutes"
+)
+
+SLIDE_DURATION = _env(
+    "FINTEL_SLIDE_DURATION", "1 minute"
+)
+
+WATERMARK = _env(
+    "FINTEL_WATERMARK", "10 minutes"
+)
+
+# News event time: ingestion timestamp
+NEWS_TIME_COLUMN = _env(
+    "FINTEL_NEWS_TIME_COLUMN", "ingested_at"
+)
+
+ALERT_SENTIMENT_THRESHOLD = float(
+    _env("FINTEL_ALERT_SENTIMENT", "-0.4")
+)
+
+ALERT_PRICE_DROP_PCT = float(
+    _env("FINTEL_ALERT_PRICE_DROP_PCT", "-0.5")
+)
+
+# config/settings.py
+NEWS_MAX_AGE_HOURS = 72     # carried news expires after 3 days; None = never
+NEWS_FRESH_MINUTES = 60     # "fresh" threshold for UI highlighting
+
+
+# ---------------------------------------------------------
+# OPTIONAL POSTGRES
+# ---------------------------------------------------------
+
+PG_ENABLED = _env("FINTEL_PG_ENABLED", "0") == "1"
+
+PG_HOST = _env("FINTEL_PG_HOST", "localhost")
+PG_PORT = int(_env("FINTEL_PG_PORT", "5432"))
+
+PG_DB = _env("FINTEL_PG_DB", "fintel")
+PG_USER = _env("FINTEL_PG_USER", "postgres")
+PG_PASSWORD = _env("FINTEL_PG_PASSWORD", "")
+
+AUDIT_BACKEND = _env(
+    "FINTEL_AUDIT_BACKEND", "jsonl"
+)
+
+
+# ---------------------------------------------------------
+# OFFLINE MODEL CONFIGURATION
+# ---------------------------------------------------------
+
+os.environ.setdefault("HF_HUB_OFFLINE", "1")
+os.environ.setdefault("TRANSFORMERS_OFFLINE", "1")
+
+
+# ---------------------------------------------------------
+# CREATE GOLD DIRECTORIES
+# ---------------------------------------------------------
+
+def ensure_dirs():
+    directories = (
+        DATA_DIR,
         GOLD_PATH,
+        CHECKPOINT_DIR,
+        GOLD_CHECKPOINT_PATH,
+        AUDIT_DIR,
+        LOG_DIR,
+        RUN_DIR,
+        SPARK_LOCAL_DIR,
+        NEWS_STATE_DIR,
+        BUFFER_DIR,
+        MODELS_DIR,
+    )
 
-C:\Users\2000209445\Desktop\FINTEL_UPDATE>dir common
- Volume in drive C has no label.
- Volume Serial Number is 8EFC-765E
+    for directory in directories:
+        Path(directory).mkdir(parents=True, exist_ok=True)
 
- Directory of C:\Users\2000209445\Desktop\FINTEL_UPDATE\common
 
-23-11-2026  16:16    <DIR>          .
-23-11-2026  22:07    <DIR>          ..
-16-11-2026  10:53             7,021 audit.py
-20-11-2026  11:58             2,107 schemas.py
-16-11-2026  10:53             1,043 tables.py
-16-11-2026  10:53                 0 __init__.py
-23-11-2026  16:16    <DIR>          __pycache__
-               4 File(s)         10,171 bytes
-               3 Dir(s)  373,433,925,632 bytes free
-
+ensure_dirs()
 C:\Users\2000209445\Desktop\FINTEL_UPDATE>
+C:\Users\2000209445\Desktop\FINTEL_UPDATE>  
