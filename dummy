@@ -1,1 +1,17 @@
-python -c "from config.database import test_connection; test_connection()"
+SELECT
+    table_name,
+    ordinal_position,
+    column_name,
+    data_type,
+    is_nullable,
+    column_default
+FROM information_schema.columns
+WHERE table_schema = 'fintel_gold'
+  AND table_name IN (
+      'gold_alerts',
+      'gold_audit',
+      'gold_news_sentiment',
+      'gold_sentiment_price',
+      'gold_stock_metrics'
+  )
+ORDER BY table_name, ordinal_position;
