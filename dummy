@@ -1,16 +1,39 @@
-(.venv) C:\Users\2000209445\Desktop\FINTEL_UPDATE>deactivate .
-C:\Users\2000209445\Desktop\FINTEL_UPDATE>dir config
+C:\Users\2000209445\Desktop\FINTEL_UPDATE>dir gold
  Volume in drive C has no label.
  Volume Serial Number is 8EFC-765E
 
- Directory of C:\Users\2000209445\Desktop\FINTEL_UPDATE\config
+ Directory of C:\Users\2000209445\Desktop\FINTEL_UPDATE\gold
 
 23-11-2026  16:16    <DIR>          .
 23-11-2026  22:07    <DIR>          ..
-23-11-2026  01:46             6,104 settings.py
+23-11-2026  01:46            17,714 gold_job.py
+23-11-2026  12:21            13,213 gold_job_v2.py
+23-11-2026  16:51            25,921 gold_job_v3.py
+23-11-2026  16:47    <DIR>          __pycache__
+               3 File(s)         56,848 bytes
+               3 Dir(s)  373,437,186,048 bytes free
+
+C:\Users\2000209445\Desktop\FINTEL_UPDATE>findstr /I "PG_POSTGRES GOLD_PATH SILVER_TICKS_PATH SILVER_NEWS_PATH" config\settings.py
+SILVER_TICKS_PATH = Path(
+        "FINTEL_SILVER_TICKS_PATH",
+SILVER_NEWS_PATH = (
+GOLD_PATH = DATA_DIR / "gold" / "sentiment_price"
+        GOLD_PATH,
+
+C:\Users\2000209445\Desktop\FINTEL_UPDATE>dir common
+ Volume in drive C has no label.
+ Volume Serial Number is 8EFC-765E
+
+ Directory of C:\Users\2000209445\Desktop\FINTEL_UPDATE\common
+
+23-11-2026  16:16    <DIR>          .
+23-11-2026  22:07    <DIR>          ..
+16-11-2026  10:53             7,021 audit.py
+20-11-2026  11:58             2,107 schemas.py
+16-11-2026  10:53             1,043 tables.py
 16-11-2026  10:53                 0 __init__.py
-23-11-2026  22:16    <DIR>          __pycache__
-               2 File(s)          6,104 bytes
-               3 Dir(s)  373,433,315,328 bytes free
+23-11-2026  16:16    <DIR>          __pycache__
+               4 File(s)         10,171 bytes
+               3 Dir(s)  373,433,925,632 bytes free
 
 C:\Users\2000209445\Desktop\FINTEL_UPDATE>
