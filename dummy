@@ -1,8 +1,1 @@
-# PostgreSQL - Gold Layer
-FINTEL_PG_ENABLED=1
-FINTEL_PG_HOST=localhost
-FINTEL_PG_PORT=5432
-FINTEL_PG_DB=YOUR_DATABASE_NAME
-FINTEL_PG_USER=postgres
-FINTEL_PG_PASSWORD=YOUR_POSTGRES_PASSWORD
-FINTEL_PG_SCHEMA=fintel_gold
+python -c "from dotenv import load_dotenv; import os; load_dotenv(); print('Database:', os.getenv('FINTEL_PG_DB')); print('Host:', os.getenv('FINTEL_PG_HOST')); print('Schema:', os.getenv('FINTEL_PG_SCHEMA')); print('Password configured:', bool(os.getenv('FINTEL_PG_PASSWORD')))"
