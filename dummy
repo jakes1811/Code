@@ -1,65 +1,22 @@
-"gold_alerts"	1	"alert_id"	"bigint"	"NO"
-"gold_alerts"	2	"symbol"	"character varying"	"NO"
-"gold_alerts"	3	"window_start"	"timestamp with time zone"	"NO"
-"gold_alerts"	4	"alert_type"	"character varying"	"NO"
-"gold_alerts"	5	"alert_message"	"text"	"YES"
-"gold_alerts"	6	"sentiment_score"	"double precision"	"YES"
-"gold_alerts"	7	"price_change_pct"	"double precision"	"YES"
-"gold_alerts"	8	"created_at"	"timestamp with time zone"	"YES"
-"gold_audit"	1	"audit_id"	"bigint"	"NO"
-"gold_audit"	2	"run_id"	"character varying"	"NO"
-"gold_audit"	3	"batch_id"	"bigint"	"YES"
-"gold_audit"	4	"job_name"	"character varying"	"YES"
-"gold_audit"	5	"status"	"character varying"	"YES"
-"gold_audit"	6	"input_tick_count"	"bigint"	"YES"
-"gold_audit"	7	"input_news_count"	"bigint"	"YES"
-"gold_audit"	8	"output_row_count"	"bigint"	"YES"
-"gold_audit"	9	"rows_with_news"	"bigint"	"YES"
-"gold_audit"	10	"late_records"	"bigint"	"YES"
-"gold_audit"	11	"started_at"	"timestamp with time zone"	"YES"
-"gold_audit"	12	"completed_at"	"timestamp with time zone"	"YES"
-"gold_audit"	13	"duration_ms"	"bigint"	"YES"
-"gold_audit"	14	"error_message"	"text"	"YES"
-"gold_news_sentiment"	1	"article_id"	"text"	"NO"
-"gold_news_sentiment"	2	"symbol"	"character varying"	"NO"
-"gold_news_sentiment"	3	"headline"	"text"	"YES"
-"gold_news_sentiment"	4	"source"	"text"	"YES"
-"gold_news_sentiment"	5	"published_at"	"timestamp with time zone"	"YES"
-"gold_news_sentiment"	6	"sentiment"	"character varying"	"YES"
-"gold_news_sentiment"	7	"sentiment_score"	"double precision"	"YES"
-"gold_news_sentiment"	8	"positive_score"	"double precision"	"YES"
-"gold_news_sentiment"	9	"negative_score"	"double precision"	"YES"
-"gold_news_sentiment"	10	"neutral_score"	"double precision"	"YES"
-"gold_news_sentiment"	11	"processed_at"	"timestamp with time zone"	"YES"
-"gold_sentiment_price"	1	"symbol"	"character varying"	"NO"
-"gold_sentiment_price"	2	"window_start"	"timestamp with time zone"	"NO"
-"gold_sentiment_price"	3	"window_end"	"timestamp with time zone"	"NO"
-"gold_sentiment_price"	4	"article_count"	"integer"	"YES"
-"gold_sentiment_price"	5	"avg_sentiment"	"double precision"	"YES"
-"gold_sentiment_price"	6	"min_sentiment"	"double precision"	"YES"
-"gold_sentiment_price"	7	"latest_headline"	"text"	"YES"
-"gold_sentiment_price"	8	"latest_sentiment_label"	"character varying"	"YES"
-"gold_sentiment_price"	9	"latest_news_time"	"timestamp with time zone"	"YES"
-"gold_sentiment_price"	10	"price_first"	"double precision"	"YES"
-"gold_sentiment_price"	11	"price_last"	"double precision"	"YES"
-"gold_sentiment_price"	12	"price_high"	"double precision"	"YES"
-"gold_sentiment_price"	13	"price_low"	"double precision"	"YES"
-"gold_sentiment_price"	14	"price_change_pct"	"double precision"	"YES"
-"gold_sentiment_price"	15	"price_range_pct"	"double precision"	"YES"
-"gold_sentiment_price"	16	"day_change_pct"	"double precision"	"YES"
-"gold_sentiment_price"	17	"tick_count"	"bigint"	"YES"
-"gold_sentiment_price"	18	"alert_flag"	"boolean"	"YES"
-"gold_sentiment_price"	19	"alert_reason"	"text"	"YES"
-"gold_sentiment_price"	20	"computed_at"	"timestamp with time zone"	"YES"
-"gold_stock_metrics"	1	"symbol"	"character varying"	"NO"
-"gold_stock_metrics"	2	"window_start"	"timestamp with time zone"	"NO"
-"gold_stock_metrics"	3	"window_end"	"timestamp with time zone"	"NO"
-"gold_stock_metrics"	4	"price_first"	"double precision"	"YES"
-"gold_stock_metrics"	5	"price_last"	"double precision"	"YES"
-"gold_stock_metrics"	6	"price_high"	"double precision"	"YES"
-"gold_stock_metrics"	7	"price_low"	"double precision"	"YES"
-"gold_stock_metrics"	8	"price_change_pct"	"double precision"	"YES"
-"gold_stock_metrics"	9	"price_range_pct"	"double precision"	"YES"
-"gold_stock_metrics"	10	"day_change_pct"	"double precision"	"YES"
-"gold_stock_metrics"	11	"tick_count"	"bigint"	"NO"
-"gold_stock_metrics"	12	"computed_at"	"timestamp with time zone"	"YES"
+SELECT
+    tc.table_name,
+    tc.constraint_name,
+    tc.constraint_type,
+    kcu.column_name,
+    kcu.ordinal_position
+FROM information_schema.table_constraints tc
+LEFT JOIN information_schema.key_column_usage kcu
+    ON tc.constraint_name = kcu.constraint_name
+    AND tc.table_schema = kcu.table_schema
+    AND tc.table_name = kcu.table_name
+WHERE tc.table_schema = 'fintel_gold'
+ORDER BY tc.table_name, tc.constraint_name, kcu.ordinal_position;
+
+
+SELECT
+    tablename,
+    indexname,
+    indexdef
+FROM pg_indexes
+WHERE schemaname = 'fintel_gold'
+ORDER BY tablename, indexname;
