@@ -1,5 +1,1 @@
-"fintel_gold"	"gold_alerts"
-"fintel_gold"	"gold_audit"
-"fintel_gold"	"gold_news_sentiment"
-"fintel_gold"	"gold_sentiment_price"
-"fintel_gold"	"gold_stock_metrics"
+python -c "import psycopg2,getpass; c=psycopg2.connect(host='localhost',port=5432,dbname='fintel_db',user='postgres',password=getpass.getpass('PostgreSQL password: ')); cur=c.cursor(); cur.execute('SELECT current_database(), current_user, version()'); print(cur.fetchone()); cur.close(); c.close(); print('CONNECTION SUCCESSFUL')"
